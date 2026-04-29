@@ -22,18 +22,6 @@
         }
     },
     "user": {
-        "DLC_enabled":{
-            "display_name": "DLC Enabled",
-            "description": "Is the DLC enabled?",
-            "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
-            ],
-            "default": true
-        },
-
         "include_faction_challenges": {
             "display_name": "Include Faction Challenges",
             "description": "Include faction-based checks such as 'Complete a game with 5 Mutants' or 'Win a game with all Avengers'.",

@@ -394,6 +394,70 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Domination",
+    "category": [
+      "Game Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Convoy",
+    "category": [
+      "Game Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Convergence",
+    "category": [
+      "Game Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Arcade",
+    "category": [
+      "Game Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Conquest",
+    "category": [
+      "Game Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Doom Match",
+    "category": [
+      "Game Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Annihilation",
+    "category": [
+      "Game Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Free Fight",
+    "category": [
+      "Game Mode"
+    ],
+    "progression": true
+  },
+  {
     "count": "60",
     "name": "Chronovium",
     "category": [

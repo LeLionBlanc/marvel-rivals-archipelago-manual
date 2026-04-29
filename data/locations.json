@@ -1457,7 +1457,7 @@
     ]
   },
   {
-    "name": "Win 3 games as Bruce Banner",
+    "name": "Play 3 games as Bruce Banner",
     "category": [
       "Vanguard",
       "Bruce Banner"
@@ -1465,7 +1465,7 @@
     "requires": "|@Game Mode:1| AND |Bruce Banner|"
   },
   {
-    "name": "Win 5 games as Bruce Banner",
+    "name": "Play 5 games as Bruce Banner",
     "category": [
       "Vanguard",
       "Bruce Banner"
@@ -1489,7 +1489,7 @@
     "requires": "|@Game Mode:1| AND |Bruce Banner|"
   },
   {
-    "name": "Win 3 games as The Punisher",
+    "name": "Play 3 games as The Punisher",
     "category": [
       "Duelist",
       "The Punisher"
@@ -1497,7 +1497,7 @@
     "requires": "|@Game Mode:1| AND |The Punisher|"
   },
   {
-    "name": "Win 5 games as The Punisher",
+    "name": "Play 5 games as The Punisher",
     "category": [
       "Duelist",
       "The Punisher"
@@ -1521,7 +1521,7 @@
     "requires": "|@Game Mode:1| AND |The Punisher|"
   },
   {
-    "name": "Win 3 games as The Thing",
+    "name": "Play 3 games as The Thing",
     "category": [
       "Vanguard",
       "The Thing"
@@ -1529,7 +1529,7 @@
     "requires": "|@Game Mode:1| AND |The Thing|"
   },
   {
-    "name": "Win 5 games as The Thing",
+    "name": "Play 5 games as The Thing",
     "category": [
       "Vanguard",
       "The Thing"
@@ -1553,7 +1553,7 @@
     "requires": "|@Game Mode:1| AND |The Thing|"
   },
   {
-    "name": "Win 3 games as Human Torch",
+    "name": "Play 3 games as Human Torch",
     "category": [
       "Duelist",
       "Human Torch"
@@ -1561,7 +1561,7 @@
     "requires": "|@Game Mode:1| AND |Human Torch|"
   },
   {
-    "name": "Win 5 games as Human Torch",
+    "name": "Play 5 games as Human Torch",
     "category": [
       "Duelist",
       "Human Torch"
@@ -1585,7 +1585,7 @@
     "requires": "|@Game Mode:1| AND |Human Torch|"
   },
   {
-    "name": "Win 3 games as Storm",
+    "name": "Play 3 games as Storm",
     "category": [
       "Duelist",
       "Storm"
@@ -1593,7 +1593,7 @@
     "requires": "|@Game Mode:1| AND |Storm|"
   },
   {
-    "name": "Win 5 games as Storm",
+    "name": "Play 5 games as Storm",
     "category": [
       "Duelist",
       "Storm"
@@ -1617,7 +1617,7 @@
     "requires": "|@Game Mode:1| AND |Storm|"
   },
   {
-    "name": "Win 3 games as Loki",
+    "name": "Play 3 games as Loki",
     "category": [
       "Strategist",
       "Loki"
@@ -1625,7 +1625,7 @@
     "requires": "|@Game Mode:1| AND |Loki|"
   },
   {
-    "name": "Win 5 games as Loki",
+    "name": "Play 5 games as Loki",
     "category": [
       "Strategist",
       "Loki"
@@ -1649,7 +1649,7 @@
     "requires": "|@Game Mode:1| AND |Loki|"
   },
   {
-    "name": "Win 3 games as Ultron",
+    "name": "Play 3 games as Ultron",
     "category": [
       "Strategist",
       "Ultron"
@@ -1657,7 +1657,7 @@
     "requires": "|@Game Mode:1| AND |Ultron|"
   },
   {
-    "name": "Win 5 games as Ultron",
+    "name": "Play 5 games as Ultron",
     "category": [
       "Strategist",
       "Ultron"
@@ -1681,7 +1681,7 @@
     "requires": "|@Game Mode:1| AND |Ultron|"
   },
   {
-    "name": "Win 3 games as Doctor Strange",
+    "name": "Play 3 games as Doctor Strange",
     "category": [
       "Vanguard",
       "Doctor Strange"
@@ -1689,7 +1689,7 @@
     "requires": "|@Game Mode:1| AND |Doctor Strange|"
   },
   {
-    "name": "Win 5 games as Doctor Strange",
+    "name": "Play 5 games as Doctor Strange",
     "category": [
       "Vanguard",
       "Doctor Strange"
@@ -1713,7 +1713,7 @@
     "requires": "|@Game Mode:1| AND |Doctor Strange|"
   },
   {
-    "name": "Win 3 games as Mantis",
+    "name": "Play 3 games as Mantis",
     "category": [
       "Strategist",
       "Mantis"
@@ -1721,7 +1721,7 @@
     "requires": "|@Game Mode:1| AND |Mantis|"
   },
   {
-    "name": "Win 5 games as Mantis",
+    "name": "Play 5 games as Mantis",
     "category": [
       "Strategist",
       "Mantis"
@@ -1745,7 +1745,7 @@
     "requires": "|@Game Mode:1| AND |Mantis|"
   },
   {
-    "name": "Win 3 games as Rocket Raccoon",
+    "name": "Play 3 games as Rocket Raccoon",
     "category": [
       "Strategist",
       "Rocket Raccoon"
@@ -1753,7 +1753,7 @@
     "requires": "|@Game Mode:1| AND |Rocket Raccoon|"
   },
   {
-    "name": "Win 5 games as Rocket Raccoon",
+    "name": "Play 5 games as Rocket Raccoon",
     "category": [
       "Strategist",
       "Rocket Raccoon"
@@ -1777,7 +1777,7 @@
     "requires": "|@Game Mode:1| AND |Rocket Raccoon|"
   },
   {
-    "name": "Win 3 games as Hela",
+    "name": "Play 3 games as Hela",
     "category": [
       "Duelist",
       "Hela"
@@ -1785,7 +1785,7 @@
     "requires": "|@Game Mode:1| AND |Hela|"
   },
   {
-    "name": "Win 5 games as Hela",
+    "name": "Play 5 games as Hela",
     "category": [
       "Duelist",
       "Hela"
@@ -1809,7 +1809,7 @@
     "requires": "|@Game Mode:1| AND |Hela|"
   },
   {
-    "name": "Win 3 games as Black Panther",
+    "name": "Play 3 games as Black Panther",
     "category": [
       "Duelist",
       "Black Panther"
@@ -1817,7 +1817,7 @@
     "requires": "|@Game Mode:1| AND |Black Panther|"
   },
   {
-    "name": "Win 5 games as Black Panther",
+    "name": "Play 5 games as Black Panther",
     "category": [
       "Duelist",
       "Black Panther"
@@ -1841,7 +1841,7 @@
     "requires": "|@Game Mode:1| AND |Black Panther|"
   },
   {
-    "name": "Win 3 games as Groot",
+    "name": "Play 3 games as Groot",
     "category": [
       "Vanguard",
       "Groot"
@@ -1849,7 +1849,7 @@
     "requires": "|@Game Mode:1| AND |Groot|"
   },
   {
-    "name": "Win 5 games as Groot",
+    "name": "Play 5 games as Groot",
     "category": [
       "Vanguard",
       "Groot"
@@ -1873,7 +1873,7 @@
     "requires": "|@Game Mode:1| AND |Groot|"
   },
   {
-    "name": "Win 3 games as Magik",
+    "name": "Play 3 games as Magik",
     "category": [
       "Duelist",
       "Magik"
@@ -1881,7 +1881,7 @@
     "requires": "|@Game Mode:1| AND |Magik|"
   },
   {
-    "name": "Win 5 games as Magik",
+    "name": "Play 5 games as Magik",
     "category": [
       "Duelist",
       "Magik"
@@ -1905,7 +1905,7 @@
     "requires": "|@Game Mode:1| AND |Magik|"
   },
   {
-    "name": "Win 3 games as Luna Snow",
+    "name": "Play 3 games as Luna Snow",
     "category": [
       "Strategist",
       "Luna Snow"
@@ -1913,7 +1913,7 @@
     "requires": "|@Game Mode:1| AND |Luna Snow|"
   },
   {
-    "name": "Win 5 games as Luna Snow",
+    "name": "Play 5 games as Luna Snow",
     "category": [
       "Strategist",
       "Luna Snow"
@@ -1937,7 +1937,7 @@
     "requires": "|@Game Mode:1| AND |Luna Snow|"
   },
   {
-    "name": "Win 3 games as Iron Man",
+    "name": "Play 3 games as Iron Man",
     "category": [
       "Duelist",
       "Iron Man"
@@ -1945,7 +1945,7 @@
     "requires": "|@Game Mode:1| AND |Iron Man|"
   },
   {
-    "name": "Win 5 games as Iron Man",
+    "name": "Play 5 games as Iron Man",
     "category": [
       "Duelist",
       "Iron Man"
@@ -1969,7 +1969,7 @@
     "requires": "|@Game Mode:1| AND |Iron Man|"
   },
   {
-    "name": "Win 3 games as Venom",
+    "name": "Play 3 games as Venom",
     "category": [
       "Vanguard",
       "Venom"
@@ -1977,7 +1977,7 @@
     "requires": "|@Game Mode:1| AND |Venom|"
   },
   {
-    "name": "Win 5 games as Venom",
+    "name": "Play 5 games as Venom",
     "category": [
       "Vanguard",
       "Venom"
@@ -2001,7 +2001,7 @@
     "requires": "|@Game Mode:1| AND |Venom|"
   },
   {
-    "name": "Win 3 games as Spider-Man",
+    "name": "Play 3 games as Spider-Man",
     "category": [
       "Duelist",
       "Spider-Man"
@@ -2009,7 +2009,7 @@
     "requires": "|@Game Mode:1| AND |Spider-Man|"
   },
   {
-    "name": "Win 5 games as Spider-Man",
+    "name": "Play 5 games as Spider-Man",
     "category": [
       "Duelist",
       "Spider-Man"
@@ -2033,7 +2033,7 @@
     "requires": "|@Game Mode:1| AND |Spider-Man|"
   },
   {
-    "name": "Win 3 games as Magneto",
+    "name": "Play 3 games as Magneto",
     "category": [
       "Vanguard",
       "Magneto"
@@ -2041,7 +2041,7 @@
     "requires": "|@Game Mode:1| AND |Magneto|"
   },
   {
-    "name": "Win 5 games as Magneto",
+    "name": "Play 5 games as Magneto",
     "category": [
       "Vanguard",
       "Magneto"
@@ -2065,7 +2065,7 @@
     "requires": "|@Game Mode:1| AND |Magneto|"
   },
   {
-    "name": "Win 3 games as Emma Frost",
+    "name": "Play 3 games as Emma Frost",
     "category": [
       "Vanguard",
       "Emma Frost"
@@ -2073,7 +2073,7 @@
     "requires": "|@Game Mode:1| AND |Emma Frost|"
   },
   {
-    "name": "Win 5 games as Emma Frost",
+    "name": "Play 5 games as Emma Frost",
     "category": [
       "Vanguard",
       "Emma Frost"
@@ -2097,7 +2097,7 @@
     "requires": "|@Game Mode:1| AND |Emma Frost|"
   },
   {
-    "name": "Win 3 games as Scarlet Witch",
+    "name": "Play 3 games as Scarlet Witch",
     "category": [
       "Duelist",
       "Scarlet Witch"
@@ -2105,7 +2105,7 @@
     "requires": "|@Game Mode:1| AND |Scarlet Witch|"
   },
   {
-    "name": "Win 5 games as Scarlet Witch",
+    "name": "Play 5 games as Scarlet Witch",
     "category": [
       "Duelist",
       "Scarlet Witch"
@@ -2129,7 +2129,7 @@
     "requires": "|@Game Mode:1| AND |Scarlet Witch|"
   },
   {
-    "name": "Win 3 games as Thor",
+    "name": "Play 3 games as Thor",
     "category": [
       "Vanguard",
       "Thor"
@@ -2137,7 +2137,7 @@
     "requires": "|@Game Mode:1| AND |Thor|"
   },
   {
-    "name": "Win 5 games as Thor",
+    "name": "Play 5 games as Thor",
     "category": [
       "Vanguard",
       "Thor"
@@ -2161,7 +2161,7 @@
     "requires": "|@Game Mode:1| AND |Thor|"
   },
   {
-    "name": "Win 3 games as Peni Parker",
+    "name": "Play 3 games as Peni Parker",
     "category": [
       "Vanguard",
       "Peni Parker"
@@ -2169,7 +2169,7 @@
     "requires": "|@Game Mode:1| AND |Peni Parker|"
   },
   {
-    "name": "Win 5 games as Peni Parker",
+    "name": "Play 5 games as Peni Parker",
     "category": [
       "Vanguard",
       "Peni Parker"
@@ -2193,7 +2193,7 @@
     "requires": "|@Game Mode:1| AND |Peni Parker|"
   },
   {
-    "name": "Win 3 games as Star-Lord",
+    "name": "Play 3 games as Star-Lord",
     "category": [
       "Duelist",
       "Star-Lord"
@@ -2201,7 +2201,7 @@
     "requires": "|@Game Mode:1| AND |Star-Lord|"
   },
   {
-    "name": "Win 5 games as Star-Lord",
+    "name": "Play 5 games as Star-Lord",
     "category": [
       "Duelist",
       "Star-Lord"
@@ -2225,7 +2225,7 @@
     "requires": "|@Game Mode:1| AND |Star-Lord|"
   },
   {
-    "name": "Win 3 games as Namor",
+    "name": "Play 3 games as Namor",
     "category": [
       "Duelist",
       "Namor"
@@ -2233,7 +2233,7 @@
     "requires": "|@Game Mode:1| AND |Namor|"
   },
   {
-    "name": "Win 5 games as Namor",
+    "name": "Play 5 games as Namor",
     "category": [
       "Duelist",
       "Namor"
@@ -2257,7 +2257,7 @@
     "requires": "|@Game Mode:1| AND |Namor|"
   },
   {
-    "name": "Win 3 games as Adam Warlock",
+    "name": "Play 3 games as Adam Warlock",
     "category": [
       "Strategist",
       "Adam Warlock"
@@ -2265,7 +2265,7 @@
     "requires": "|@Game Mode:1| AND |Adam Warlock|"
   },
   {
-    "name": "Win 5 games as Adam Warlock",
+    "name": "Play 5 games as Adam Warlock",
     "category": [
       "Strategist",
       "Adam Warlock"
@@ -2289,7 +2289,7 @@
     "requires": "|@Game Mode:1| AND |Adam Warlock|"
   },
   {
-    "name": "Win 3 games as Jeff the Land Shark",
+    "name": "Play 3 games as Jeff the Land Shark",
     "category": [
       "Strategist",
       "Jeff the Land Shark"
@@ -2297,7 +2297,7 @@
     "requires": "|@Game Mode:1| AND |Jeff the Land Shark|"
   },
   {
-    "name": "Win 5 games as Jeff the Land Shark",
+    "name": "Play 5 games as Jeff the Land Shark",
     "category": [
       "Strategist",
       "Jeff the Land Shark"
@@ -2321,7 +2321,7 @@
     "requires": "|@Game Mode:1| AND |Jeff the Land Shark|"
   },
   {
-    "name": "Win 3 games as Captain America",
+    "name": "Play 3 games as Captain America",
     "category": [
       "Vanguard",
       "Captain America"
@@ -2329,7 +2329,7 @@
     "requires": "|@Game Mode:1| AND |Captain America|"
   },
   {
-    "name": "Win 5 games as Captain America",
+    "name": "Play 5 games as Captain America",
     "category": [
       "Vanguard",
       "Captain America"
@@ -2353,7 +2353,7 @@
     "requires": "|@Game Mode:1| AND |Captain America|"
   },
   {
-    "name": "Win 3 games as Winter Soldier",
+    "name": "Play 3 games as Winter Soldier",
     "category": [
       "Duelist",
       "Winter Soldier"
@@ -2361,7 +2361,7 @@
     "requires": "|@Game Mode:1| AND |Winter Soldier|"
   },
   {
-    "name": "Win 5 games as Winter Soldier",
+    "name": "Play 5 games as Winter Soldier",
     "category": [
       "Duelist",
       "Winter Soldier"
@@ -2385,7 +2385,7 @@
     "requires": "|@Game Mode:1| AND |Winter Soldier|"
   },
   {
-    "name": "Win 3 games as Psylocke",
+    "name": "Play 3 games as Psylocke",
     "category": [
       "Duelist",
       "Psylocke"
@@ -2393,7 +2393,7 @@
     "requires": "|@Game Mode:1| AND |Psylocke|"
   },
   {
-    "name": "Win 5 games as Psylocke",
+    "name": "Play 5 games as Psylocke",
     "category": [
       "Duelist",
       "Psylocke"
@@ -2417,7 +2417,7 @@
     "requires": "|@Game Mode:1| AND |Psylocke|"
   },
   {
-    "name": "Win 3 games as Moon Knight",
+    "name": "Play 3 games as Moon Knight",
     "category": [
       "Duelist",
       "Moon Knight"
@@ -2425,7 +2425,7 @@
     "requires": "|@Game Mode:1| AND |Moon Knight|"
   },
   {
-    "name": "Win 5 games as Moon Knight",
+    "name": "Play 5 games as Moon Knight",
     "category": [
       "Duelist",
       "Moon Knight"
@@ -2449,7 +2449,7 @@
     "requires": "|@Game Mode:1| AND |Moon Knight|"
   },
   {
-    "name": "Win 3 games as Hawkeye",
+    "name": "Play 3 games as Hawkeye",
     "category": [
       "Duelist",
       "Hawkeye"
@@ -2457,7 +2457,7 @@
     "requires": "|@Game Mode:1| AND |Hawkeye|"
   },
   {
-    "name": "Win 5 games as Hawkeye",
+    "name": "Play 5 games as Hawkeye",
     "category": [
       "Duelist",
       "Hawkeye"
@@ -2481,7 +2481,7 @@
     "requires": "|@Game Mode:1| AND |Hawkeye|"
   },
   {
-    "name": "Win 3 games as Iron Fist",
+    "name": "Play 3 games as Iron Fist",
     "category": [
       "Duelist",
       "Iron Fist"
@@ -2489,7 +2489,7 @@
     "requires": "|@Game Mode:1| AND |Iron Fist|"
   },
   {
-    "name": "Win 5 games as Iron Fist",
+    "name": "Play 5 games as Iron Fist",
     "category": [
       "Duelist",
       "Iron Fist"
@@ -2513,7 +2513,7 @@
     "requires": "|@Game Mode:1| AND |Iron Fist|"
   },
   {
-    "name": "Win 3 games as Black Widow",
+    "name": "Play 3 games as Black Widow",
     "category": [
       "Duelist",
       "Black Widow"
@@ -2521,7 +2521,7 @@
     "requires": "|@Game Mode:1| AND |Black Widow|"
   },
   {
-    "name": "Win 5 games as Black Widow",
+    "name": "Play 5 games as Black Widow",
     "category": [
       "Duelist",
       "Black Widow"
@@ -2545,7 +2545,7 @@
     "requires": "|@Game Mode:1| AND |Black Widow|"
   },
   {
-    "name": "Win 3 games as Cloak & Dagger",
+    "name": "Play 3 games as Cloak & Dagger",
     "category": [
       "Strategist",
       "Cloak & Dagger"
@@ -2553,7 +2553,7 @@
     "requires": "|@Game Mode:1| AND |Cloak & Dagger|"
   },
   {
-    "name": "Win 5 games as Cloak & Dagger",
+    "name": "Play 5 games as Cloak & Dagger",
     "category": [
       "Strategist",
       "Cloak & Dagger"
@@ -2577,7 +2577,7 @@
     "requires": "|@Game Mode:1| AND |Cloak & Dagger|"
   },
   {
-    "name": "Win 3 games as Squirrel Girl",
+    "name": "Play 3 games as Squirrel Girl",
     "category": [
       "Duelist",
       "Squirrel Girl"
@@ -2585,7 +2585,7 @@
     "requires": "|@Game Mode:1| AND |Squirrel Girl|"
   },
   {
-    "name": "Win 5 games as Squirrel Girl",
+    "name": "Play 5 games as Squirrel Girl",
     "category": [
       "Duelist",
       "Squirrel Girl"
@@ -2609,7 +2609,7 @@
     "requires": "|@Game Mode:1| AND |Squirrel Girl|"
   },
   {
-    "name": "Win 3 games as Wolverine",
+    "name": "Play 3 games as Wolverine",
     "category": [
       "Duelist",
       "Wolverine"
@@ -2617,7 +2617,7 @@
     "requires": "|@Game Mode:1| AND |Wolverine|"
   },
   {
-    "name": "Win 5 games as Wolverine",
+    "name": "Play 5 games as Wolverine",
     "category": [
       "Duelist",
       "Wolverine"
@@ -2641,7 +2641,7 @@
     "requires": "|@Game Mode:1| AND |Wolverine|"
   },
   {
-    "name": "Win 3 games as Mister Fantastic",
+    "name": "Play 3 games as Mister Fantastic",
     "category": [
       "Duelist",
       "Mister Fantastic"
@@ -2649,7 +2649,7 @@
     "requires": "|@Game Mode:1| AND |Mister Fantastic|"
   },
   {
-    "name": "Win 5 games as Mister Fantastic",
+    "name": "Play 5 games as Mister Fantastic",
     "category": [
       "Duelist",
       "Mister Fantastic"
@@ -2673,7 +2673,7 @@
     "requires": "|@Game Mode:1| AND |Mister Fantastic|"
   },
   {
-    "name": "Win 3 games as Invisible Woman",
+    "name": "Play 3 games as Invisible Woman",
     "category": [
       "Strategist",
       "Invisible Woman"
@@ -2681,7 +2681,7 @@
     "requires": "|@Game Mode:1| AND |Invisible Woman|"
   },
   {
-    "name": "Win 5 games as Invisible Woman",
+    "name": "Play 5 games as Invisible Woman",
     "category": [
       "Strategist",
       "Invisible Woman"
@@ -2705,7 +2705,7 @@
     "requires": "|@Game Mode:1| AND |Invisible Woman|"
   },
   {
-    "name": "Win 3 games as Phoenix",
+    "name": "Play 3 games as Phoenix",
     "category": [
       "Duelist",
       "Phoenix"
@@ -2713,7 +2713,7 @@
     "requires": "|@Game Mode:1| AND |Phoenix|"
   },
   {
-    "name": "Win 5 games as Phoenix",
+    "name": "Play 5 games as Phoenix",
     "category": [
       "Duelist",
       "Phoenix"
@@ -2737,7 +2737,7 @@
     "requires": "|@Game Mode:1| AND |Phoenix|"
   },
   {
-    "name": "Win 3 games as Blade",
+    "name": "Play 3 games as Blade",
     "category": [
       "Duelist",
       "Blade"
@@ -2745,7 +2745,7 @@
     "requires": "|@Game Mode:1| AND |Blade|"
   },
   {
-    "name": "Win 5 games as Blade",
+    "name": "Play 5 games as Blade",
     "category": [
       "Duelist",
       "Blade"
@@ -2769,7 +2769,7 @@
     "requires": "|@Game Mode:1| AND |Blade|"
   },
   {
-    "name": "Win 3 games as Angela",
+    "name": "Play 3 games as Angela",
     "category": [
       "Vanguard",
       "Angela"
@@ -2777,7 +2777,7 @@
     "requires": "|@Game Mode:1| AND |Angela|"
   },
   {
-    "name": "Win 5 games as Angela",
+    "name": "Play 5 games as Angela",
     "category": [
       "Vanguard",
       "Angela"
@@ -2801,7 +2801,7 @@
     "requires": "|@Game Mode:1| AND |Angela|"
   },
   {
-    "name": "Win 3 games as Daredevil",
+    "name": "Play 3 games as Daredevil",
     "category": [
       "Duelist",
       "Daredevil"
@@ -2809,7 +2809,7 @@
     "requires": "|@Game Mode:1| AND |Daredevil|"
   },
   {
-    "name": "Win 5 games as Daredevil",
+    "name": "Play 5 games as Daredevil",
     "category": [
       "Duelist",
       "Daredevil"
@@ -2833,7 +2833,7 @@
     "requires": "|@Game Mode:1| AND |Daredevil|"
   },
   {
-    "name": "Win 3 games as Gambit",
+    "name": "Play 3 games as Gambit",
     "category": [
       "Strategist",
       "Gambit"
@@ -2841,7 +2841,7 @@
     "requires": "|@Game Mode:1| AND |Gambit|"
   },
   {
-    "name": "Win 5 games as Gambit",
+    "name": "Play 5 games as Gambit",
     "category": [
       "Strategist",
       "Gambit"
@@ -2865,7 +2865,7 @@
     "requires": "|@Game Mode:1| AND |Gambit|"
   },
   {
-    "name": "Win 3 games as Rogue",
+    "name": "Play 3 games as Rogue",
     "category": [
       "Vanguard",
       "Rogue"
@@ -2873,7 +2873,7 @@
     "requires": "|@Game Mode:1| AND |Rogue|"
   },
   {
-    "name": "Win 5 games as Rogue",
+    "name": "Play 5 games as Rogue",
     "category": [
       "Vanguard",
       "Rogue"
@@ -2897,7 +2897,7 @@
     "requires": "|@Game Mode:1| AND |Rogue|"
   },
   {
-    "name": "Win 3 games as Deadpool - Vanguard",
+    "name": "Play 3 games as Deadpool - Vanguard",
     "category": [
       "Vanguard",
       "Deadpool"
@@ -2905,7 +2905,7 @@
     "requires": "|@Game Mode:1| AND |Deadpool - Vanguard|"
   },
   {
-    "name": "Win 5 games as Deadpool - Vanguard",
+    "name": "Play 5 games as Deadpool - Vanguard",
     "category": [
       "Vanguard",
       "Deadpool"
@@ -2929,7 +2929,7 @@
     "requires": "|@Game Mode:1| AND |Deadpool - Vanguard|"
   },
   {
-    "name": "Win 3 games as Deadpool - Duelist",
+    "name": "Play 3 games as Deadpool - Duelist",
     "category": [
       "Duelist",
       "Deadpool"
@@ -2937,7 +2937,7 @@
     "requires": "|@Game Mode:1| AND |Deadpool - Duelist|"
   },
   {
-    "name": "Win 5 games as Deadpool - Duelist",
+    "name": "Play 5 games as Deadpool - Duelist",
     "category": [
       "Duelist",
       "Deadpool"
@@ -2961,7 +2961,7 @@
     "requires": "|@Game Mode:1| AND |Deadpool - Duelist|"
   },
   {
-    "name": "Win 3 games as Deadpool - Strategist",
+    "name": "Play 3 games as Deadpool - Strategist",
     "category": [
       "Strategist",
       "Deadpool"
@@ -2969,7 +2969,7 @@
     "requires": "|@Game Mode:1| AND |Deadpool - Strategist|"
   },
   {
-    "name": "Win 5 games as Deadpool - Strategist",
+    "name": "Play 5 games as Deadpool - Strategist",
     "category": [
       "Strategist",
       "Deadpool"
@@ -2993,7 +2993,7 @@
     "requires": "|@Game Mode:1| AND |Deadpool - Strategist|"
   },
   {
-    "name": "Win 3 games as Elsa Bloodstone",
+    "name": "Play 3 games as Elsa Bloodstone",
     "category": [
       "Duelist",
       "Elsa Bloodstone"
@@ -3001,7 +3001,7 @@
     "requires": "|@Game Mode:1| AND |Elsa Bloodstone|"
   },
   {
-    "name": "Win 5 games as Elsa Bloodstone",
+    "name": "Play 5 games as Elsa Bloodstone",
     "category": [
       "Duelist",
       "Elsa Bloodstone"
@@ -3025,7 +3025,7 @@
     "requires": "|@Game Mode:1| AND |Elsa Bloodstone|"
   },
   {
-    "name": "Win 3 games as White Fox",
+    "name": "Play 3 games as White Fox",
     "category": [
       "Strategist",
       "White Fox"
@@ -3033,7 +3033,7 @@
     "requires": "|@Game Mode:1| AND |White Fox|"
   },
   {
-    "name": "Win 5 games as White Fox",
+    "name": "Play 5 games as White Fox",
     "category": [
       "Strategist",
       "White Fox"
@@ -3057,7 +3057,7 @@
     "requires": "|@Game Mode:1| AND |White Fox|"
   },
   {
-    "name": "Win 3 games as Black Cat",
+    "name": "Play 3 games as Black Cat",
     "category": [
       "Duelist",
       "Black Cat"
@@ -3065,7 +3065,7 @@
     "requires": "|@Game Mode:1| AND |Black Cat|"
   },
   {
-    "name": "Win 5 games as Black Cat",
+    "name": "Play 5 games as Black Cat",
     "category": [
       "Duelist",
       "Black Cat"
@@ -3485,21 +3485,21 @@
     "category": [
       "Gamemode"
     ],
-    "requires": "|Quick Match|"
+    "requires": "|Domination|"
   },
   {
     "name": "Win a Convoy match",
     "category": [
       "Gamemode"
     ],
-    "requires": "|Quick Match|"
+    "requires": "|Convoy|"
   },
   {
     "name": "Win a Convergence match",
     "category": [
       "Gamemode"
     ],
-    "requires": "|Quick Match|"
+    "requires": "|Convergence|"
   },
   {
     "name": "Win a Clash match",
@@ -3513,14 +3513,7 @@
     "category": [
       "Gamemode"
     ],
-    "requires": "|Quick Match|"
-  },
-  {
-    "name": "Win a match after being down 2-0",
-    "category": [
-      "Gamemode"
-    ],
-    "requires": "|Quick Match|"
+    "requires": "|Quick Match| AND |Domination| AND |Convoy| AND |Convergence|"
   },
   {
     "name": "Win a game with heroes from 3 different factions",
@@ -3671,5 +3664,91 @@
       "Moon Knight"
     ],
     "requires": "|Blood Hunt| AND |Moon Knight|"
+  },
+  {
+    "name": "Win a Blood Hunt Match",
+    "category": [
+      "Blood Hunt",
+      "Gamemode"
+    ],
+    "requires": "|Blood Hunt|"
+  },
+  {
+    "name": "Visit the Training Ground",
+    "category": [
+      "Training Ground"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Complete a Training in Training Ground",
+    "category": [
+      "Training Ground"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Play a Conquest match",
+    "category": [
+      "Arcade",
+      "Gamemode"
+    ],
+    "requires": "|Arcade| AND |Conquest|"
+  },
+  {
+    "name": "Win a Conquest match",
+    "category": [
+      "Arcade",
+      "Gamemode"
+    ],
+    "requires": "|Arcade| AND |Conquest|"
+  },
+  {
+    "name": "Play a Doom Match",
+    "category": [
+      "Arcade",
+      "Gamemode"
+    ],
+    "requires": "|Arcade| AND |Doom Match|"
+  },
+  {
+    "name": "Win a Doom Match",
+    "category": [
+      "Arcade",
+      "Gamemode"
+    ],
+    "requires": "|Arcade| AND |Doom Match|"
+  },
+  {
+    "name": "Play an Annihilation match",
+    "category": [
+      "Arcade",
+      "Gamemode"
+    ],
+    "requires": "|Arcade| AND |Annihilation|"
+  },
+  {
+    "name": "Win an Annihilation match",
+    "category": [
+      "Arcade",
+      "Gamemode"
+    ],
+    "requires": "|Arcade| AND |Annihilation|"
+  },
+  {
+    "name": "Play a Free Fight match",
+    "category": [
+      "Arcade",
+      "Gamemode"
+    ],
+    "requires": "|Arcade| AND |Free Fight|"
+  },
+  {
+    "name": "Win a Free Fight match",
+    "category": [
+      "Arcade",
+      "Gamemode"
+    ],
+    "requires": "|Arcade| AND |Free Fight|"
   }
 ]
