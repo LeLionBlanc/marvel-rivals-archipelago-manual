@@ -35,21 +35,21 @@
     "requires": "|@Game Mode:1| AND |@Mutant:3|"
   },
   {
-    "name": "Complete a game with 5 Mutants",
+    "name": "Play 5 games featuring at least one Mutant each",
     "category": [
       "Factions"
     ],
     "requires": "|@Game Mode:1| AND |@Mutant:5|"
   },
   {
-    "name": "Complete a game with 7 Mutants",
+    "name": "Play 7 games featuring at least one Mutant each",
     "category": [
       "Factions"
     ],
     "requires": "|@Game Mode:1| AND |@Mutant:7|"
   },
   {
-    "name": "Complete a game with 10 Mutants",
+    "name": "Play 10 games featuring at least one Mutant each",
     "category": [
       "Factions"
     ],
@@ -70,21 +70,21 @@
     "requires": "|@Game Mode:1| AND |@Villain:3|"
   },
   {
-    "name": "Complete a game with 5 Villains",
+    "name": "Play 5 games featuring at least one Villain each",
     "category": [
       "Factions"
     ],
     "requires": "|@Game Mode:1| AND |@Villain:5|"
   },
   {
-    "name": "Complete a game with 7 Villains",
+    "name": "Play 7 games featuring at least one Villain each",
     "category": [
       "Factions"
     ],
     "requires": "|@Game Mode:1| AND |@Villain:7|"
   },
   {
-    "name": "Complete a game with 9 Villains",
+    "name": "Play 9 games featuring at least one Villain each",
     "category": [
       "Factions"
     ],
@@ -105,14 +105,14 @@
     "requires": "|@Game Mode:1| AND |@Avenger:3|"
   },
   {
-    "name": "Complete a game with 5 Avengers",
+    "name": "Play 5 games featuring at least one Avenger each",
     "category": [
       "Factions"
     ],
     "requires": "|@Game Mode:1| AND |@Avenger:5|"
   },
   {
-    "name": "Complete a game with 8 Avengers",
+    "name": "Play 8 games featuring at least one Avenger each",
     "category": [
       "Factions"
     ],
@@ -133,7 +133,7 @@
     "requires": "|@Game Mode:1| AND |@Guardians of the Galaxy:3|"
   },
   {
-    "name": "Complete a game with 5 Guardians of the Galaxy",
+    "name": "Play 5 games featuring at least one Guardian of the Galaxy each",
     "category": [
       "Factions"
     ],
@@ -3089,25 +3089,11 @@
     "requires": "|@Game Mode:1| AND |Black Cat|"
   },
   {
-    "name": "Win a game with ALL 8 Avengers",
-    "category": [
-      "Factions"
-    ],
-    "requires": "|@Game Mode:1| AND |@Avenger:8|"
-  },
-  {
     "name": "Win a game with the Complete Fantastic Four",
     "category": [
       "Factions"
     ],
     "requires": "|@Game Mode:1| AND |@Fantastic 4:4|"
-  },
-  {
-    "name": "Win a game with ALL 5 Guardians of the Galaxy",
-    "category": [
-      "Factions"
-    ],
-    "requires": "|@Game Mode:1| AND |@Guardians of the Galaxy:5|"
   },
   {
     "name": "Win a game with ALL 3 Agents of Atlas",
@@ -3117,46 +3103,11 @@
     "requires": "|@Game Mode:1| AND |@Agents of Atlas:3|"
   },
   {
-    "name": "Win a game with 6 Villains on your team",
-    "category": [
-      "Factions"
-    ],
-    "requires": "|@Game Mode:1| AND |@Villain:6|"
-  },
-  {
-    "name": "Win a game with 6 Mutants on your team",
-    "category": [
-      "Factions"
-    ],
-    "requires": "|@Game Mode:1| AND |@Mutant:6|"
-  },
-  {
     "name": "Win a game with 3 Vanguards on your team",
     "category": [
       "Factions"
     ],
     "requires": "|@Game Mode:1| AND |@Vanguard:3|"
-  },
-  {
-    "name": "Win a game using only Duelists on your team",
-    "category": [
-      "Factions"
-    ],
-    "requires": "|@Game Mode:1| AND |@Duelist:6|"
-  },
-  {
-    "name": "Win a game using only Vanguards on your team",
-    "category": [
-      "Factions"
-    ],
-    "requires": "|@Game Mode:1| AND |@Vanguard:6|"
-  },
-  {
-    "name": "Win a game using only Strategists on your team",
-    "category": [
-      "Factions"
-    ],
-    "requires": "|@Game Mode:1| AND |@Strategist:6|"
   },
   {
     "name": "Win with 1 Vanguard, 1 Duelist, 1 Strategist",
