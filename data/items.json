@@ -1,0 +1,524 @@
+[
+  {
+    "count": 1,
+    "name": "Bruce Banner",
+    "category": [
+      "Character",
+      "Avenger",
+      "Vanguard"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Punisher",
+    "category": [
+      "Character",
+      "Villain",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Thing",
+    "category": [
+      "Character",
+      "Fantastic 4",
+      "Vanguard"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Human Torch",
+    "category": [
+      "Character",
+      "Fantastic 4",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Storm",
+    "category": [
+      "Character",
+      "Mutant",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Loki",
+    "category": [
+      "Character",
+      "Villain",
+      "Strategist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ultron",
+    "category": [
+      "Character",
+      "Villain",
+      "Strategist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Doctor Strange",
+    "category": [
+      "Character",
+      "Avenger",
+      "Vanguard"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mantis",
+    "category": [
+      "Character",
+      "Guardians of the Galaxy",
+      "Strategist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rocket Raccoon",
+    "category": [
+      "Character",
+      "Guardians of the Galaxy",
+      "Strategist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hela",
+    "category": [
+      "Character",
+      "Villain",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Black Panther",
+    "category": [
+      "Character",
+      "Avenger",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Groot",
+    "category": [
+      "Character",
+      "Guardians of the Galaxy",
+      "Vanguard"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Magik",
+    "category": [
+      "Character",
+      "Mutant",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Luna Snow",
+    "category": [
+      "Character",
+      "Strategist",
+      "Agents of Atlas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Iron Man",
+    "category": [
+      "Character",
+      "Avenger",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Venom",
+    "category": [
+      "Character",
+      "Villain",
+      "Vanguard"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spider-Man",
+    "category": [
+      "Character",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Magneto",
+    "category": [
+      "Character",
+      "Mutant",
+      "Villain",
+      "Vanguard"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Emma Frost",
+    "category": [
+      "Character",
+      "Mutant",
+      "Villain",
+      "Vanguard"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scarlet Witch",
+    "category": [
+      "Character",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Thor",
+    "category": [
+      "Character",
+      "Avenger",
+      "Vanguard"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Peni Parker",
+    "category": [
+      "Character",
+      "Vanguard"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Star-Lord",
+    "category": [
+      "Character",
+      "Guardians of the Galaxy",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Namor",
+    "category": [
+      "Character",
+      "Mutant",
+      "Villain",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Adam Warlock",
+    "category": [
+      "Character",
+      "Guardians of the Galaxy",
+      "Strategist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jeff the Land Shark",
+    "category": [
+      "Character",
+      "Strategist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Captain America",
+    "category": [
+      "Character",
+      "Avenger",
+      "Vanguard"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Winter Soldier",
+    "category": [
+      "Character",
+      "Villain",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Psylocke",
+    "category": [
+      "Character",
+      "Mutant",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Moon Knight",
+    "category": [
+      "Character",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hawkeye",
+    "category": [
+      "Character",
+      "Avenger",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Iron Fist",
+    "category": [
+      "Character",
+      "Duelist",
+      "Agents of Atlas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Black Widow",
+    "category": [
+      "Character",
+      "Avenger",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cloak & Dagger",
+    "category": [
+      "Character",
+      "Strategist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Squirrel Girl",
+    "category": [
+      "Character",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wolverine",
+    "category": [
+      "Character",
+      "Mutant",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mister Fantastic",
+    "category": [
+      "Character",
+      "Fantastic 4",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Invisible Woman",
+    "category": [
+      "Character",
+      "Fantastic 4",
+      "Strategist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Quick Match",
+    "category": [
+      "Game Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": "60",
+    "name": "Chronovium",
+    "category": [
+      "Win Con"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Phoenix",
+    "category": [
+      "Character",
+      "Duelist",
+      "Mutant"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blade",
+    "category": [
+      "Character",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Angela",
+    "category": [
+      "Character",
+      "Vanguard"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Daredevil",
+    "category": [
+      "Character",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gambit",
+    "category": [
+      "Character",
+      "Strategist",
+      "Mutant"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rogue",
+    "category": [
+      "Character",
+      "Vanguard",
+      "Mutant"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Deadpool - Vanguard",
+    "category": [
+      "Character",
+      "Vanguard"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Deadpool - Duelist",
+    "category": [
+      "Character",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Deadpool - Strategist",
+    "category": [
+      "Character",
+      "Strategist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Elsa Bloodstone",
+    "category": [
+      "Character",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "White Fox",
+    "category": [
+      "Character",
+      "Strategist",
+      "Agents of Atlas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Black Cat",
+    "category": [
+      "Character",
+      "Duelist"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blood Hunt",
+    "category": [
+      "Game Mode"
+    ],
+    "progression": true
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "MarvelRivals",
+  "creator": "DrakeLeLionBlanc",
+  "filler_item_name": "Chrono Tokens",
+  "starting_items": [
+    {
+      "items": [
+        "Quick Match"
+      ]
+    },
+    {
+      "item_categories": [
+        "Character"
+      ],
+      "random": 1
+    }
+  ]
+}

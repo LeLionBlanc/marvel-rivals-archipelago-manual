@@ -1,0 +1,3675 @@
+[
+  {
+    "name": "Complete a Game with a Fantastic 4 Member",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Fantastic 4:1|"
+  },
+  {
+    "name": "Complete a Game with 2 Members of the Fantastic 4",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Fantastic 4:2|"
+  },
+  {
+    "name": "Complete a Game with 4 Members of the Fantastic 4",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Fantastic 4:4|"
+  },
+  {
+    "name": "Complete a Game with a Mutant",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Mutant:1|"
+  },
+  {
+    "name": "Complete a game with 3 Mutants",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Mutant:3|"
+  },
+  {
+    "name": "Complete a game with 5 Mutants",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Mutant:5|"
+  },
+  {
+    "name": "Complete a game with 7 Mutants",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Mutant:7|"
+  },
+  {
+    "name": "Complete a game with 10 Mutants",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Mutant:10|"
+  },
+  {
+    "name": "Complete a game with a Villain",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Villain:1|"
+  },
+  {
+    "name": "Complete a game with 3 Villains",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Villain:3|"
+  },
+  {
+    "name": "Complete a game with 5 Villains",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Villain:5|"
+  },
+  {
+    "name": "Complete a game with 7 Villains",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Villain:7|"
+  },
+  {
+    "name": "Complete a game with 9 Villains",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Villain:9|"
+  },
+  {
+    "name": "Complete a game with an Avenger",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Avenger:1|"
+  },
+  {
+    "name": "Complete a game with 3 Avengers",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Avenger:3|"
+  },
+  {
+    "name": "Complete a game with 5 Avengers",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Avenger:5|"
+  },
+  {
+    "name": "Complete a game with 8 Avengers",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Avenger:8|"
+  },
+  {
+    "name": "Complete a game with a Guardian of the Galaxy",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Guardians of the Galaxy:1|"
+  },
+  {
+    "name": "Complete a game with 3 Guardians of the Galaxy",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Guardians of the Galaxy:3|"
+  },
+  {
+    "name": "Complete a game with 5 Guardians of the Galaxy",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Guardians of the Galaxy:5|"
+  },
+  {
+    "name": "Complete a game with an Agent of Atlas",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Agents of Atlas:1|"
+  },
+  {
+    "name": "Complete a game with 2 Agents of Atlas",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Agents of Atlas:2|"
+  },
+  {
+    "name": "Complete a game with 3 Agents of Atlas",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Agents of Atlas:3|"
+  },
+  {
+    "name": "Play as Adam Warlock",
+    "category": [
+      "Strategist",
+      "Adam Warlock"
+    ],
+    "requires": "|@Game Mode:1| AND |Adam Warlock|"
+  },
+  {
+    "name": "Win as Adam Warlock",
+    "category": [
+      "Strategist",
+      "Adam Warlock"
+    ],
+    "requires": "|@Game Mode:1| AND |Adam Warlock|"
+  },
+  {
+    "name": "Use Karmic Revival",
+    "category": [
+      "Strategist",
+      "Adam Warlock"
+    ],
+    "requires": "|@Game Mode:1| AND |Adam Warlock|"
+  },
+  {
+    "name": "Play as Angela",
+    "category": [
+      "Vanguard",
+      "Angela"
+    ],
+    "requires": "|@Game Mode:1| AND |Angela|"
+  },
+  {
+    "name": "Win as Angela",
+    "category": [
+      "Vanguard",
+      "Angela"
+    ],
+    "requires": "|@Game Mode:1| AND |Angela|"
+  },
+  {
+    "name": "Use Heven's Retribution",
+    "category": [
+      "Vanguard",
+      "Angela"
+    ],
+    "requires": "|@Game Mode:1| AND |Angela|"
+  },
+  {
+    "name": "Play as Black Cat",
+    "category": [
+      "Duelist",
+      "Black Cat"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Cat|"
+  },
+  {
+    "name": "Win as Black Cat",
+    "category": [
+      "Duelist",
+      "Black Cat"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Cat|"
+  },
+  {
+    "name": "Use Calling Card",
+    "category": [
+      "Duelist",
+      "Black Cat"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Cat|"
+  },
+  {
+    "name": "Play as Black Panther",
+    "category": [
+      "Duelist",
+      "Black Panther"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Panther|"
+  },
+  {
+    "name": "Win as Black Panther",
+    "category": [
+      "Duelist",
+      "Black Panther"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Panther|"
+  },
+  {
+    "name": "Use Bast's Descent",
+    "category": [
+      "Duelist",
+      "Black Panther"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Panther|"
+  },
+  {
+    "name": "Play as Black Widow",
+    "category": [
+      "Black Widow",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Widow|"
+  },
+  {
+    "name": "Win as Black Widow",
+    "category": [
+      "Black Widow",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Widow|"
+  },
+  {
+    "name": "Use Electro-Plasma Explosion",
+    "category": [
+      "Black Widow",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Widow|"
+  },
+  {
+    "name": "Play as Blade",
+    "category": [
+      "Blade",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Blade|"
+  },
+  {
+    "name": "Win as Blade",
+    "category": [
+      "Blade",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Blade|"
+  },
+  {
+    "name": "Use Thousand-Fold Slash",
+    "category": [
+      "Blade",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Blade|"
+  },
+  {
+    "name": "Play as Bruce Banner",
+    "category": [
+      "Bruce Banner",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Bruce Banner|"
+  },
+  {
+    "name": "Win as Bruce Banner",
+    "category": [
+      "Bruce Banner",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Bruce Banner|"
+  },
+  {
+    "name": "Use Puny Banner",
+    "category": [
+      "Bruce Banner",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Bruce Banner|"
+  },
+  {
+    "name": "Use Hulk Smash!",
+    "category": [
+      "Bruce Banner",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Bruce Banner|"
+  },
+  {
+    "name": "Use World Breaker",
+    "category": [
+      "Bruce Banner",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Bruce Banner|"
+  },
+  {
+    "name": "Play as Captain America",
+    "category": [
+      "Captain America",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Captain America|"
+  },
+  {
+    "name": "Win as Captain America",
+    "category": [
+      "Captain America",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Captain America|"
+  },
+  {
+    "name": "Use Freedom Charge",
+    "category": [
+      "Captain America",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Captain America|"
+  },
+  {
+    "name": "Play as Cloak & Dagger",
+    "category": [
+      "Cloak & Dagger",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Cloak & Dagger|"
+  },
+  {
+    "name": "Win as Cloak & Dagger",
+    "category": [
+      "Cloak & Dagger",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Cloak & Dagger|"
+  },
+  {
+    "name": "Use Eternal Bond",
+    "category": [
+      "Cloak & Dagger",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Cloak & Dagger|"
+  },
+  {
+    "name": "Play as Daredevil",
+    "category": [
+      "Daredevil",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Daredevil|"
+  },
+  {
+    "name": "Win as Daredevil",
+    "category": [
+      "Daredevil",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Daredevil|"
+  },
+  {
+    "name": "Use Let The Devil Out",
+    "category": [
+      "Daredevil",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Daredevil|"
+  },
+  {
+    "name": "Play as Deadpool - Vanguard",
+    "category": [
+      "Deadpool",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Vanguard|"
+  },
+  {
+    "name": "Win as Deadpool - Vanguard",
+    "category": [
+      "Deadpool",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Vanguard|"
+  },
+  {
+    "name": "Use The Ban Hammer - Vanguard",
+    "category": [
+      "Deadpool",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Vanguard|"
+  },
+  {
+    "name": "Use The Big Test - Vanguard",
+    "category": [
+      "Deadpool",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Vanguard|"
+  },
+  {
+    "name": "Play as Deadpool - Duelist",
+    "category": [
+      "Deadpool",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Duelist|"
+  },
+  {
+    "name": "Win as Deadpool - Duelist",
+    "category": [
+      "Deadpool",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Duelist|"
+  },
+  {
+    "name": "Use The Ban Hammer - Duelist",
+    "category": [
+      "Deadpool",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Duelist|"
+  },
+  {
+    "name": "Use Pop Quiz! - Duelist",
+    "category": [
+      "Deadpool",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Duelist|"
+  },
+  {
+    "name": "Play as Deadpool - Strategist",
+    "category": [
+      "Deadpool",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Strategist|"
+  },
+  {
+    "name": "Win as Deadpool - Strategist",
+    "category": [
+      "Deadpool",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Strategist|"
+  },
+  {
+    "name": "Use Pwnage Pound - Strategist",
+    "category": [
+      "Deadpool",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Strategist|"
+  },
+  {
+    "name": "Use Final Exam - Strategist",
+    "category": [
+      "Deadpool",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Strategist|"
+  },
+  {
+    "name": "Play as Doctor Strange",
+    "category": [
+      "Doctor Strange",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Doctor Strange|"
+  },
+  {
+    "name": "Win as Doctor Strange",
+    "category": [
+      "Doctor Strange",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Doctor Strange|"
+  },
+  {
+    "name": "Use Eye of Agamotto",
+    "category": [
+      "Doctor Strange",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Doctor Strange|"
+  },
+  {
+    "name": "Play as Elsa Bloodstone",
+    "category": [
+      "Elsa Bloodstone",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Elsa Bloodstone|"
+  },
+  {
+    "name": "Win as Elsa Bloodstone",
+    "category": [
+      "Elsa Bloodstone",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Elsa Bloodstone|"
+  },
+  {
+    "name": "Use Apex Predator",
+    "category": [
+      "Elsa Bloodstone",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Elsa Bloodstone|"
+  },
+  {
+    "name": "Play as Emma Frost",
+    "category": [
+      "Emma Frost",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Emma Frost|"
+  },
+  {
+    "name": "Win as Emma Frost",
+    "category": [
+      "Emma Frost",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Emma Frost|"
+  },
+  {
+    "name": "Use Psionic Seduction",
+    "category": [
+      "Emma Frost",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Emma Frost|"
+  },
+  {
+    "name": "Play as Gambit",
+    "category": [
+      "Gambit",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Gambit|"
+  },
+  {
+    "name": "Win as Gambit",
+    "category": [
+      "Gambit",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Gambit|"
+  },
+  {
+    "name": "Use Ragin' Royal Flush",
+    "category": [
+      "Gambit",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Gambit|"
+  },
+  {
+    "name": "Play as Groot",
+    "category": [
+      "Groot",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Groot|"
+  },
+  {
+    "name": "Win as Groot",
+    "category": [
+      "Groot",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Groot|"
+  },
+  {
+    "name": "Use Strangling Prison",
+    "category": [
+      "Groot",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Groot|"
+  },
+  {
+    "name": "Play as Hawkeye",
+    "category": [
+      "Hawkeye",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Hawkeye|"
+  },
+  {
+    "name": "Win as Hawkeye",
+    "category": [
+      "Hawkeye",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Hawkeye|"
+  },
+  {
+    "name": "Use Hunter's Sight",
+    "category": [
+      "Hawkeye",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Hawkeye|"
+  },
+  {
+    "name": "Play as Hela",
+    "category": [
+      "Hela",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Hela|"
+  },
+  {
+    "name": "Win as Hela",
+    "category": [
+      "Hela",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Hela|"
+  },
+  {
+    "name": "Use Goddess of Death",
+    "category": [
+      "Hela",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Hela|"
+  },
+  {
+    "name": "Play as Human Torch",
+    "category": [
+      "Human Torch",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Human Torch|"
+  },
+  {
+    "name": "Win as Human Torch",
+    "category": [
+      "Human Torch",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Human Torch|"
+  },
+  {
+    "name": "Use Supernova",
+    "category": [
+      "Human Torch",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Human Torch|"
+  },
+  {
+    "name": "Play as Invisible Woman",
+    "category": [
+      "Invisible Woman",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Invisible Woman|"
+  },
+  {
+    "name": "Win as Invisible Woman",
+    "category": [
+      "Invisible Woman",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Invisible Woman|"
+  },
+  {
+    "name": "Use Invisible Boundary",
+    "category": [
+      "Invisible Woman",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Invisible Woman|"
+  },
+  {
+    "name": "Play as Iron Fist",
+    "category": [
+      "Iron Fist",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Iron Fist|"
+  },
+  {
+    "name": "Win as Iron Fist",
+    "category": [
+      "Iron Fist",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Iron Fist|"
+  },
+  {
+    "name": "Use Living Chi",
+    "category": [
+      "Iron Fist",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Iron Fist|"
+  },
+  {
+    "name": "Play as Iron Man",
+    "category": [
+      "Iron Man",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Iron Man|"
+  },
+  {
+    "name": "Win as Iron Man",
+    "category": [
+      "Iron Man",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Iron Man|"
+  },
+  {
+    "name": "Use Invincible Pulse Cannon",
+    "category": [
+      "Iron Man",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Iron Man|"
+  },
+  {
+    "name": "Play as Jeff the Land Shark",
+    "category": [
+      "Jeff the Land Shark",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Jeff the Land Shark|"
+  },
+  {
+    "name": "Win as Jeff the Land Shark",
+    "category": [
+      "Jeff the Land Shark",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Jeff the Land Shark|"
+  },
+  {
+    "name": "Use It's Jeff!",
+    "category": [
+      "Jeff the Land Shark",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Jeff the Land Shark|"
+  },
+  {
+    "name": "Play as Loki",
+    "category": [
+      "Loki",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Loki|"
+  },
+  {
+    "name": "Win as Loki",
+    "category": [
+      "Loki",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Loki|"
+  },
+  {
+    "name": "Use God of Mischief",
+    "category": [
+      "Loki",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Loki|"
+  },
+  {
+    "name": "Play as Luna Snow",
+    "category": [
+      "Luna Snow",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Luna Snow|"
+  },
+  {
+    "name": "Win as Luna Snow",
+    "category": [
+      "Luna Snow",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Luna Snow|"
+  },
+  {
+    "name": "Use Fate of Both Worlds",
+    "category": [
+      "Luna Snow",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Luna Snow|"
+  },
+  {
+    "name": "Play as Magik",
+    "category": [
+      "Magik",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Magik|"
+  },
+  {
+    "name": "Win as Magik",
+    "category": [
+      "Magik",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Magik|"
+  },
+  {
+    "name": "Use Darkchild",
+    "category": [
+      "Magik",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Magik|"
+  },
+  {
+    "name": "Play as Magneto",
+    "category": [
+      "Magneto",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Magneto|"
+  },
+  {
+    "name": "Win as Magneto",
+    "category": [
+      "Magneto",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Magneto|"
+  },
+  {
+    "name": "Use Meteor M",
+    "category": [
+      "Magneto",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Magneto|"
+  },
+  {
+    "name": "Play as Mantis",
+    "category": [
+      "Mantis",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Mantis|"
+  },
+  {
+    "name": "Win as Mantis",
+    "category": [
+      "Mantis",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Mantis|"
+  },
+  {
+    "name": "Use Soul Resurgence",
+    "category": [
+      "Mantis",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Mantis|"
+  },
+  {
+    "name": "Play as Mister Fantastic",
+    "category": [
+      "Mister Fantastic",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Mister Fantastic|"
+  },
+  {
+    "name": "Win as Mister Fantastic",
+    "category": [
+      "Mister Fantastic",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Mister Fantastic|"
+  },
+  {
+    "name": "Use Brainiac Bounce",
+    "category": [
+      "Mister Fantastic",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Mister Fantastic|"
+  },
+  {
+    "name": "Play as Moon Knight",
+    "category": [
+      "Moon Knight",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Moon Knight|"
+  },
+  {
+    "name": "Win as Moon Knight",
+    "category": [
+      "Moon Knight",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Moon Knight|"
+  },
+  {
+    "name": "Use Hand of Khonshu",
+    "category": [
+      "Moon Knight",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Moon Knight|"
+  },
+  {
+    "name": "Play as Namor",
+    "category": [
+      "Namor",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Namor|"
+  },
+  {
+    "name": "Win as Namor",
+    "category": [
+      "Namor",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Namor|"
+  },
+  {
+    "name": "Use Horn of Proteus",
+    "category": [
+      "Namor",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Namor|"
+  },
+  {
+    "name": "Play as Peni Parker",
+    "category": [
+      "Peni Parker",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Peni Parker|"
+  },
+  {
+    "name": "Win as Peni Parker",
+    "category": [
+      "Peni Parker",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Peni Parker|"
+  },
+  {
+    "name": "Use Spider-Sweeper",
+    "category": [
+      "Peni Parker",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Peni Parker|"
+  },
+  {
+    "name": "Play as Phoenix",
+    "category": [
+      "Phoenix",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Phoenix|"
+  },
+  {
+    "name": "Win as Phoenix",
+    "category": [
+      "Phoenix",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Phoenix|"
+  },
+  {
+    "name": "Use Endsong Inferno",
+    "category": [
+      "Phoenix",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Phoenix|"
+  },
+  {
+    "name": "Play as Psylocke",
+    "category": [
+      "Psylocke",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Psylocke|"
+  },
+  {
+    "name": "Win as Psylocke",
+    "category": [
+      "Psylocke",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Psylocke|"
+  },
+  {
+    "name": "Use Dance of the Butterfly",
+    "category": [
+      "Psylocke",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Psylocke|"
+  },
+  {
+    "name": "Play as Rocket Raccoon",
+    "category": [
+      "Rocket Raccoon",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Rocket Raccoon|"
+  },
+  {
+    "name": "Win as Rocket Raccoon",
+    "category": [
+      "Rocket Raccoon",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Rocket Raccoon|"
+  },
+  {
+    "name": "Use C.Y.A.",
+    "category": [
+      "Rocket Raccoon",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Rocket Raccoon|"
+  },
+  {
+    "name": "Play as Rogue",
+    "category": [
+      "Rogue",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Rogue|"
+  },
+  {
+    "name": "Win as Rogue",
+    "category": [
+      "Rogue",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Rogue|"
+  },
+  {
+    "name": "Use Heartbreaker",
+    "category": [
+      "Rogue",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Rogue|"
+  },
+  {
+    "name": "Play as Scarlet Witch",
+    "category": [
+      "Scarlet Witch",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Scarlet Witch|"
+  },
+  {
+    "name": "Win as Scarlet Witch",
+    "category": [
+      "Scarlet Witch",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Scarlet Witch|"
+  },
+  {
+    "name": "Use Reality Erasure",
+    "category": [
+      "Scarlet Witch",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Scarlet Witch|"
+  },
+  {
+    "name": "Play as Spider-Man",
+    "category": [
+      "Spider-Man",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Spider-Man|"
+  },
+  {
+    "name": "Win as Spider-Man",
+    "category": [
+      "Spider-Man",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Spider-Man|"
+  },
+  {
+    "name": "Use Spectacular Spin",
+    "category": [
+      "Spider-Man",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Spider-Man|"
+  },
+  {
+    "name": "Play as Squirrel Girl",
+    "category": [
+      "Squirrel Girl",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Squirrel Girl|"
+  },
+  {
+    "name": "Win as Squirrel Girl",
+    "category": [
+      "Squirrel Girl",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Squirrel Girl|"
+  },
+  {
+    "name": "Use Unbeatable Squirrel Tsunami",
+    "category": [
+      "Squirrel Girl",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Squirrel Girl|"
+  },
+  {
+    "name": "Play as Star-Lord",
+    "category": [
+      "Star-Lord",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Star-Lord|"
+  },
+  {
+    "name": "Win as Star-Lord",
+    "category": [
+      "Star-Lord",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Star-Lord|"
+  },
+  {
+    "name": "Use Galactic Legend",
+    "category": [
+      "Star-Lord",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Star-Lord|"
+  },
+  {
+    "name": "Play as Storm",
+    "category": [
+      "Storm",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Storm|"
+  },
+  {
+    "name": "Win as Storm",
+    "category": [
+      "Storm",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Storm|"
+  },
+  {
+    "name": "Use Omega Hurricane",
+    "category": [
+      "Storm",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Storm|"
+  },
+  {
+    "name": "Play as The Punisher",
+    "category": [
+      "The Punisher",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |The Punisher|"
+  },
+  {
+    "name": "Win as The Punisher",
+    "category": [
+      "The Punisher",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |The Punisher|"
+  },
+  {
+    "name": "Use Final Judgement",
+    "category": [
+      "The Punisher",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |The Punisher|"
+  },
+  {
+    "name": "Play as The Thing",
+    "category": [
+      "The Thing",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |The Thing|"
+  },
+  {
+    "name": "Win as The Thing",
+    "category": [
+      "The Thing",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |The Thing|"
+  },
+  {
+    "name": "Use Clobberin' Time",
+    "category": [
+      "The Thing",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |The Thing|"
+  },
+  {
+    "name": "Play as Thor",
+    "category": [
+      "Thor",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Thor|"
+  },
+  {
+    "name": "Win as Thor",
+    "category": [
+      "Thor",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Thor|"
+  },
+  {
+    "name": "Use God of Thunder",
+    "category": [
+      "Thor",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Thor|"
+  },
+  {
+    "name": "Play as Ultron",
+    "category": [
+      "Ultron",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Ultron|"
+  },
+  {
+    "name": "Win as Ultron",
+    "category": [
+      "Ultron",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Ultron|"
+  },
+  {
+    "name": "Use Rage of Ultron",
+    "category": [
+      "Ultron",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |Ultron|"
+  },
+  {
+    "name": "Play as Venom",
+    "category": [
+      "Venom",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Venom|"
+  },
+  {
+    "name": "Win as Venom",
+    "category": [
+      "Venom",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Venom|"
+  },
+  {
+    "name": "Use Feast of the Abyss",
+    "category": [
+      "Venom",
+      "Vanguard"
+    ],
+    "requires": "|@Game Mode:1| AND |Venom|"
+  },
+  {
+    "name": "Play as White Fox",
+    "category": [
+      "White Fox",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |White Fox|"
+  },
+  {
+    "name": "Win as White Fox",
+    "category": [
+      "White Fox",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |White Fox|"
+  },
+  {
+    "name": "Use Kumiho Unleashed",
+    "category": [
+      "White Fox",
+      "Strategist"
+    ],
+    "requires": "|@Game Mode:1| AND |White Fox|"
+  },
+  {
+    "name": "Play as Winter Soldier",
+    "category": [
+      "Winter Soldier",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Winter Soldier|"
+  },
+  {
+    "name": "Win as Winter Soldier",
+    "category": [
+      "Winter Soldier",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Winter Soldier|"
+  },
+  {
+    "name": "Use Kraken Impact",
+    "category": [
+      "Winter Soldier",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Winter Soldier|"
+  },
+  {
+    "name": "Play as Wolverine",
+    "category": [
+      "Wolverine",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Wolverine|"
+  },
+  {
+    "name": "Win as Wolverine",
+    "category": [
+      "Wolverine",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Wolverine|"
+  },
+  {
+    "name": "Use Last Stand",
+    "category": [
+      "Wolverine",
+      "Duelist"
+    ],
+    "requires": "|@Game Mode:1| AND |Wolverine|"
+  },
+  {
+    "name": "Play Quick Match",
+    "category": [
+      "Gamemode"
+    ],
+    "requires": "|@Character:1| AND |Quick Match|"
+  },
+  {
+    "name": "Win a Quick Match",
+    "category": [
+      "Gamemode"
+    ],
+    "requires": "|@Character:1| AND |Quick Match|"
+  },
+  {
+    "name": "Fix the Timestream Entanglement",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Chronovium:40|",
+    "victory": true
+  },
+  {
+    "name": "Starting Hero",
+    "category": [
+      "!Starter Locations"
+    ],
+    "requires": "",
+    "place_item_category": [
+      "Character"
+    ]
+  },
+  {
+    "name": "Win 3 games as Bruce Banner",
+    "category": [
+      "Vanguard",
+      "Bruce Banner"
+    ],
+    "requires": "|@Game Mode:1| AND |Bruce Banner|"
+  },
+  {
+    "name": "Win 5 games as Bruce Banner",
+    "category": [
+      "Vanguard",
+      "Bruce Banner"
+    ],
+    "requires": "|@Game Mode:1| AND |Bruce Banner|"
+  },
+  {
+    "name": "Use Bruce Banner's Ultimate Ability",
+    "category": [
+      "Vanguard",
+      "Bruce Banner"
+    ],
+    "requires": "|@Game Mode:1| AND |Bruce Banner|"
+  },
+  {
+    "name": "Absorb 10k dmg as Bruce Banner",
+    "category": [
+      "Vanguard",
+      "Bruce Banner"
+    ],
+    "requires": "|@Game Mode:1| AND |Bruce Banner|"
+  },
+  {
+    "name": "Win 3 games as The Punisher",
+    "category": [
+      "Duelist",
+      "The Punisher"
+    ],
+    "requires": "|@Game Mode:1| AND |The Punisher|"
+  },
+  {
+    "name": "Win 5 games as The Punisher",
+    "category": [
+      "Duelist",
+      "The Punisher"
+    ],
+    "requires": "|@Game Mode:1| AND |The Punisher|"
+  },
+  {
+    "name": "Use The Punisher's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "The Punisher"
+    ],
+    "requires": "|@Game Mode:1| AND |The Punisher|"
+  },
+  {
+    "name": "10 elims as The Punisher",
+    "category": [
+      "Duelist",
+      "The Punisher"
+    ],
+    "requires": "|@Game Mode:1| AND |The Punisher|"
+  },
+  {
+    "name": "Win 3 games as The Thing",
+    "category": [
+      "Vanguard",
+      "The Thing"
+    ],
+    "requires": "|@Game Mode:1| AND |The Thing|"
+  },
+  {
+    "name": "Win 5 games as The Thing",
+    "category": [
+      "Vanguard",
+      "The Thing"
+    ],
+    "requires": "|@Game Mode:1| AND |The Thing|"
+  },
+  {
+    "name": "Use The Thing's Ultimate Ability",
+    "category": [
+      "Vanguard",
+      "The Thing"
+    ],
+    "requires": "|@Game Mode:1| AND |The Thing|"
+  },
+  {
+    "name": "Absorb 10k dmg as The Thing",
+    "category": [
+      "Vanguard",
+      "The Thing"
+    ],
+    "requires": "|@Game Mode:1| AND |The Thing|"
+  },
+  {
+    "name": "Win 3 games as Human Torch",
+    "category": [
+      "Duelist",
+      "Human Torch"
+    ],
+    "requires": "|@Game Mode:1| AND |Human Torch|"
+  },
+  {
+    "name": "Win 5 games as Human Torch",
+    "category": [
+      "Duelist",
+      "Human Torch"
+    ],
+    "requires": "|@Game Mode:1| AND |Human Torch|"
+  },
+  {
+    "name": "Use Human Torch's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Human Torch"
+    ],
+    "requires": "|@Game Mode:1| AND |Human Torch|"
+  },
+  {
+    "name": "10 elims as Human Torch",
+    "category": [
+      "Duelist",
+      "Human Torch"
+    ],
+    "requires": "|@Game Mode:1| AND |Human Torch|"
+  },
+  {
+    "name": "Win 3 games as Storm",
+    "category": [
+      "Duelist",
+      "Storm"
+    ],
+    "requires": "|@Game Mode:1| AND |Storm|"
+  },
+  {
+    "name": "Win 5 games as Storm",
+    "category": [
+      "Duelist",
+      "Storm"
+    ],
+    "requires": "|@Game Mode:1| AND |Storm|"
+  },
+  {
+    "name": "Use Storm's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Storm"
+    ],
+    "requires": "|@Game Mode:1| AND |Storm|"
+  },
+  {
+    "name": "10 elims as Storm",
+    "category": [
+      "Duelist",
+      "Storm"
+    ],
+    "requires": "|@Game Mode:1| AND |Storm|"
+  },
+  {
+    "name": "Win 3 games as Loki",
+    "category": [
+      "Strategist",
+      "Loki"
+    ],
+    "requires": "|@Game Mode:1| AND |Loki|"
+  },
+  {
+    "name": "Win 5 games as Loki",
+    "category": [
+      "Strategist",
+      "Loki"
+    ],
+    "requires": "|@Game Mode:1| AND |Loki|"
+  },
+  {
+    "name": "Use Loki's Ultimate Ability",
+    "category": [
+      "Strategist",
+      "Loki"
+    ],
+    "requires": "|@Game Mode:1| AND |Loki|"
+  },
+  {
+    "name": "Heal 10k HP as Loki",
+    "category": [
+      "Strategist",
+      "Loki"
+    ],
+    "requires": "|@Game Mode:1| AND |Loki|"
+  },
+  {
+    "name": "Win 3 games as Ultron",
+    "category": [
+      "Strategist",
+      "Ultron"
+    ],
+    "requires": "|@Game Mode:1| AND |Ultron|"
+  },
+  {
+    "name": "Win 5 games as Ultron",
+    "category": [
+      "Strategist",
+      "Ultron"
+    ],
+    "requires": "|@Game Mode:1| AND |Ultron|"
+  },
+  {
+    "name": "Use Ultron's Ultimate Ability",
+    "category": [
+      "Strategist",
+      "Ultron"
+    ],
+    "requires": "|@Game Mode:1| AND |Ultron|"
+  },
+  {
+    "name": "Heal 10k HP as Ultron",
+    "category": [
+      "Strategist",
+      "Ultron"
+    ],
+    "requires": "|@Game Mode:1| AND |Ultron|"
+  },
+  {
+    "name": "Win 3 games as Doctor Strange",
+    "category": [
+      "Vanguard",
+      "Doctor Strange"
+    ],
+    "requires": "|@Game Mode:1| AND |Doctor Strange|"
+  },
+  {
+    "name": "Win 5 games as Doctor Strange",
+    "category": [
+      "Vanguard",
+      "Doctor Strange"
+    ],
+    "requires": "|@Game Mode:1| AND |Doctor Strange|"
+  },
+  {
+    "name": "Use Doctor Strange's Ultimate Ability",
+    "category": [
+      "Vanguard",
+      "Doctor Strange"
+    ],
+    "requires": "|@Game Mode:1| AND |Doctor Strange|"
+  },
+  {
+    "name": "Absorb 10k dmg as Doctor Strange",
+    "category": [
+      "Vanguard",
+      "Doctor Strange"
+    ],
+    "requires": "|@Game Mode:1| AND |Doctor Strange|"
+  },
+  {
+    "name": "Win 3 games as Mantis",
+    "category": [
+      "Strategist",
+      "Mantis"
+    ],
+    "requires": "|@Game Mode:1| AND |Mantis|"
+  },
+  {
+    "name": "Win 5 games as Mantis",
+    "category": [
+      "Strategist",
+      "Mantis"
+    ],
+    "requires": "|@Game Mode:1| AND |Mantis|"
+  },
+  {
+    "name": "Use Mantis's Ultimate Ability",
+    "category": [
+      "Strategist",
+      "Mantis"
+    ],
+    "requires": "|@Game Mode:1| AND |Mantis|"
+  },
+  {
+    "name": "Heal 10k HP as Mantis",
+    "category": [
+      "Strategist",
+      "Mantis"
+    ],
+    "requires": "|@Game Mode:1| AND |Mantis|"
+  },
+  {
+    "name": "Win 3 games as Rocket Raccoon",
+    "category": [
+      "Strategist",
+      "Rocket Raccoon"
+    ],
+    "requires": "|@Game Mode:1| AND |Rocket Raccoon|"
+  },
+  {
+    "name": "Win 5 games as Rocket Raccoon",
+    "category": [
+      "Strategist",
+      "Rocket Raccoon"
+    ],
+    "requires": "|@Game Mode:1| AND |Rocket Raccoon|"
+  },
+  {
+    "name": "Use Rocket Raccoon's Ultimate Ability",
+    "category": [
+      "Strategist",
+      "Rocket Raccoon"
+    ],
+    "requires": "|@Game Mode:1| AND |Rocket Raccoon|"
+  },
+  {
+    "name": "Heal 10k HP as Rocket Raccoon",
+    "category": [
+      "Strategist",
+      "Rocket Raccoon"
+    ],
+    "requires": "|@Game Mode:1| AND |Rocket Raccoon|"
+  },
+  {
+    "name": "Win 3 games as Hela",
+    "category": [
+      "Duelist",
+      "Hela"
+    ],
+    "requires": "|@Game Mode:1| AND |Hela|"
+  },
+  {
+    "name": "Win 5 games as Hela",
+    "category": [
+      "Duelist",
+      "Hela"
+    ],
+    "requires": "|@Game Mode:1| AND |Hela|"
+  },
+  {
+    "name": "Use Hela's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Hela"
+    ],
+    "requires": "|@Game Mode:1| AND |Hela|"
+  },
+  {
+    "name": "10 elims as Hela",
+    "category": [
+      "Duelist",
+      "Hela"
+    ],
+    "requires": "|@Game Mode:1| AND |Hela|"
+  },
+  {
+    "name": "Win 3 games as Black Panther",
+    "category": [
+      "Duelist",
+      "Black Panther"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Panther|"
+  },
+  {
+    "name": "Win 5 games as Black Panther",
+    "category": [
+      "Duelist",
+      "Black Panther"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Panther|"
+  },
+  {
+    "name": "Use Black Panther's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Black Panther"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Panther|"
+  },
+  {
+    "name": "10 elims as Black Panther",
+    "category": [
+      "Duelist",
+      "Black Panther"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Panther|"
+  },
+  {
+    "name": "Win 3 games as Groot",
+    "category": [
+      "Vanguard",
+      "Groot"
+    ],
+    "requires": "|@Game Mode:1| AND |Groot|"
+  },
+  {
+    "name": "Win 5 games as Groot",
+    "category": [
+      "Vanguard",
+      "Groot"
+    ],
+    "requires": "|@Game Mode:1| AND |Groot|"
+  },
+  {
+    "name": "Use Groot's Ultimate Ability",
+    "category": [
+      "Vanguard",
+      "Groot"
+    ],
+    "requires": "|@Game Mode:1| AND |Groot|"
+  },
+  {
+    "name": "Absorb 10k dmg as Groot",
+    "category": [
+      "Vanguard",
+      "Groot"
+    ],
+    "requires": "|@Game Mode:1| AND |Groot|"
+  },
+  {
+    "name": "Win 3 games as Magik",
+    "category": [
+      "Duelist",
+      "Magik"
+    ],
+    "requires": "|@Game Mode:1| AND |Magik|"
+  },
+  {
+    "name": "Win 5 games as Magik",
+    "category": [
+      "Duelist",
+      "Magik"
+    ],
+    "requires": "|@Game Mode:1| AND |Magik|"
+  },
+  {
+    "name": "Use Magik's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Magik"
+    ],
+    "requires": "|@Game Mode:1| AND |Magik|"
+  },
+  {
+    "name": "10 elims as Magik",
+    "category": [
+      "Duelist",
+      "Magik"
+    ],
+    "requires": "|@Game Mode:1| AND |Magik|"
+  },
+  {
+    "name": "Win 3 games as Luna Snow",
+    "category": [
+      "Strategist",
+      "Luna Snow"
+    ],
+    "requires": "|@Game Mode:1| AND |Luna Snow|"
+  },
+  {
+    "name": "Win 5 games as Luna Snow",
+    "category": [
+      "Strategist",
+      "Luna Snow"
+    ],
+    "requires": "|@Game Mode:1| AND |Luna Snow|"
+  },
+  {
+    "name": "Use Luna Snow's Ultimate Ability",
+    "category": [
+      "Strategist",
+      "Luna Snow"
+    ],
+    "requires": "|@Game Mode:1| AND |Luna Snow|"
+  },
+  {
+    "name": "Heal 10k HP as Luna Snow",
+    "category": [
+      "Strategist",
+      "Luna Snow"
+    ],
+    "requires": "|@Game Mode:1| AND |Luna Snow|"
+  },
+  {
+    "name": "Win 3 games as Iron Man",
+    "category": [
+      "Duelist",
+      "Iron Man"
+    ],
+    "requires": "|@Game Mode:1| AND |Iron Man|"
+  },
+  {
+    "name": "Win 5 games as Iron Man",
+    "category": [
+      "Duelist",
+      "Iron Man"
+    ],
+    "requires": "|@Game Mode:1| AND |Iron Man|"
+  },
+  {
+    "name": "Use Iron Man's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Iron Man"
+    ],
+    "requires": "|@Game Mode:1| AND |Iron Man|"
+  },
+  {
+    "name": "10 elims as Iron Man",
+    "category": [
+      "Duelist",
+      "Iron Man"
+    ],
+    "requires": "|@Game Mode:1| AND |Iron Man|"
+  },
+  {
+    "name": "Win 3 games as Venom",
+    "category": [
+      "Vanguard",
+      "Venom"
+    ],
+    "requires": "|@Game Mode:1| AND |Venom|"
+  },
+  {
+    "name": "Win 5 games as Venom",
+    "category": [
+      "Vanguard",
+      "Venom"
+    ],
+    "requires": "|@Game Mode:1| AND |Venom|"
+  },
+  {
+    "name": "Use Venom's Ultimate Ability",
+    "category": [
+      "Vanguard",
+      "Venom"
+    ],
+    "requires": "|@Game Mode:1| AND |Venom|"
+  },
+  {
+    "name": "Absorb 10k dmg as Venom",
+    "category": [
+      "Vanguard",
+      "Venom"
+    ],
+    "requires": "|@Game Mode:1| AND |Venom|"
+  },
+  {
+    "name": "Win 3 games as Spider-Man",
+    "category": [
+      "Duelist",
+      "Spider-Man"
+    ],
+    "requires": "|@Game Mode:1| AND |Spider-Man|"
+  },
+  {
+    "name": "Win 5 games as Spider-Man",
+    "category": [
+      "Duelist",
+      "Spider-Man"
+    ],
+    "requires": "|@Game Mode:1| AND |Spider-Man|"
+  },
+  {
+    "name": "Use Spider-Man's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Spider-Man"
+    ],
+    "requires": "|@Game Mode:1| AND |Spider-Man|"
+  },
+  {
+    "name": "10 elims as Spider-Man",
+    "category": [
+      "Duelist",
+      "Spider-Man"
+    ],
+    "requires": "|@Game Mode:1| AND |Spider-Man|"
+  },
+  {
+    "name": "Win 3 games as Magneto",
+    "category": [
+      "Vanguard",
+      "Magneto"
+    ],
+    "requires": "|@Game Mode:1| AND |Magneto|"
+  },
+  {
+    "name": "Win 5 games as Magneto",
+    "category": [
+      "Vanguard",
+      "Magneto"
+    ],
+    "requires": "|@Game Mode:1| AND |Magneto|"
+  },
+  {
+    "name": "Use Magneto's Ultimate Ability",
+    "category": [
+      "Vanguard",
+      "Magneto"
+    ],
+    "requires": "|@Game Mode:1| AND |Magneto|"
+  },
+  {
+    "name": "Absorb 10k dmg as Magneto",
+    "category": [
+      "Vanguard",
+      "Magneto"
+    ],
+    "requires": "|@Game Mode:1| AND |Magneto|"
+  },
+  {
+    "name": "Win 3 games as Emma Frost",
+    "category": [
+      "Vanguard",
+      "Emma Frost"
+    ],
+    "requires": "|@Game Mode:1| AND |Emma Frost|"
+  },
+  {
+    "name": "Win 5 games as Emma Frost",
+    "category": [
+      "Vanguard",
+      "Emma Frost"
+    ],
+    "requires": "|@Game Mode:1| AND |Emma Frost|"
+  },
+  {
+    "name": "Use Emma Frost's Ultimate Ability",
+    "category": [
+      "Vanguard",
+      "Emma Frost"
+    ],
+    "requires": "|@Game Mode:1| AND |Emma Frost|"
+  },
+  {
+    "name": "Absorb 10k dmg as Emma Frost",
+    "category": [
+      "Vanguard",
+      "Emma Frost"
+    ],
+    "requires": "|@Game Mode:1| AND |Emma Frost|"
+  },
+  {
+    "name": "Win 3 games as Scarlet Witch",
+    "category": [
+      "Duelist",
+      "Scarlet Witch"
+    ],
+    "requires": "|@Game Mode:1| AND |Scarlet Witch|"
+  },
+  {
+    "name": "Win 5 games as Scarlet Witch",
+    "category": [
+      "Duelist",
+      "Scarlet Witch"
+    ],
+    "requires": "|@Game Mode:1| AND |Scarlet Witch|"
+  },
+  {
+    "name": "Use Scarlet Witch's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Scarlet Witch"
+    ],
+    "requires": "|@Game Mode:1| AND |Scarlet Witch|"
+  },
+  {
+    "name": "10 elims as Scarlet Witch",
+    "category": [
+      "Duelist",
+      "Scarlet Witch"
+    ],
+    "requires": "|@Game Mode:1| AND |Scarlet Witch|"
+  },
+  {
+    "name": "Win 3 games as Thor",
+    "category": [
+      "Vanguard",
+      "Thor"
+    ],
+    "requires": "|@Game Mode:1| AND |Thor|"
+  },
+  {
+    "name": "Win 5 games as Thor",
+    "category": [
+      "Vanguard",
+      "Thor"
+    ],
+    "requires": "|@Game Mode:1| AND |Thor|"
+  },
+  {
+    "name": "Use Thor's Ultimate Ability",
+    "category": [
+      "Vanguard",
+      "Thor"
+    ],
+    "requires": "|@Game Mode:1| AND |Thor|"
+  },
+  {
+    "name": "Absorb 10k dmg as Thor",
+    "category": [
+      "Vanguard",
+      "Thor"
+    ],
+    "requires": "|@Game Mode:1| AND |Thor|"
+  },
+  {
+    "name": "Win 3 games as Peni Parker",
+    "category": [
+      "Vanguard",
+      "Peni Parker"
+    ],
+    "requires": "|@Game Mode:1| AND |Peni Parker|"
+  },
+  {
+    "name": "Win 5 games as Peni Parker",
+    "category": [
+      "Vanguard",
+      "Peni Parker"
+    ],
+    "requires": "|@Game Mode:1| AND |Peni Parker|"
+  },
+  {
+    "name": "Use Peni Parker's Ultimate Ability",
+    "category": [
+      "Vanguard",
+      "Peni Parker"
+    ],
+    "requires": "|@Game Mode:1| AND |Peni Parker|"
+  },
+  {
+    "name": "Absorb 10k dmg as Peni Parker",
+    "category": [
+      "Vanguard",
+      "Peni Parker"
+    ],
+    "requires": "|@Game Mode:1| AND |Peni Parker|"
+  },
+  {
+    "name": "Win 3 games as Star-Lord",
+    "category": [
+      "Duelist",
+      "Star-Lord"
+    ],
+    "requires": "|@Game Mode:1| AND |Star-Lord|"
+  },
+  {
+    "name": "Win 5 games as Star-Lord",
+    "category": [
+      "Duelist",
+      "Star-Lord"
+    ],
+    "requires": "|@Game Mode:1| AND |Star-Lord|"
+  },
+  {
+    "name": "Use Star-Lord's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Star-Lord"
+    ],
+    "requires": "|@Game Mode:1| AND |Star-Lord|"
+  },
+  {
+    "name": "10 elims as Star-Lord",
+    "category": [
+      "Duelist",
+      "Star-Lord"
+    ],
+    "requires": "|@Game Mode:1| AND |Star-Lord|"
+  },
+  {
+    "name": "Win 3 games as Namor",
+    "category": [
+      "Duelist",
+      "Namor"
+    ],
+    "requires": "|@Game Mode:1| AND |Namor|"
+  },
+  {
+    "name": "Win 5 games as Namor",
+    "category": [
+      "Duelist",
+      "Namor"
+    ],
+    "requires": "|@Game Mode:1| AND |Namor|"
+  },
+  {
+    "name": "Use Namor's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Namor"
+    ],
+    "requires": "|@Game Mode:1| AND |Namor|"
+  },
+  {
+    "name": "10 elims as Namor",
+    "category": [
+      "Duelist",
+      "Namor"
+    ],
+    "requires": "|@Game Mode:1| AND |Namor|"
+  },
+  {
+    "name": "Win 3 games as Adam Warlock",
+    "category": [
+      "Strategist",
+      "Adam Warlock"
+    ],
+    "requires": "|@Game Mode:1| AND |Adam Warlock|"
+  },
+  {
+    "name": "Win 5 games as Adam Warlock",
+    "category": [
+      "Strategist",
+      "Adam Warlock"
+    ],
+    "requires": "|@Game Mode:1| AND |Adam Warlock|"
+  },
+  {
+    "name": "Use Adam Warlock's Ultimate Ability",
+    "category": [
+      "Strategist",
+      "Adam Warlock"
+    ],
+    "requires": "|@Game Mode:1| AND |Adam Warlock|"
+  },
+  {
+    "name": "Heal 10k HP as Adam Warlock",
+    "category": [
+      "Strategist",
+      "Adam Warlock"
+    ],
+    "requires": "|@Game Mode:1| AND |Adam Warlock|"
+  },
+  {
+    "name": "Win 3 games as Jeff the Land Shark",
+    "category": [
+      "Strategist",
+      "Jeff the Land Shark"
+    ],
+    "requires": "|@Game Mode:1| AND |Jeff the Land Shark|"
+  },
+  {
+    "name": "Win 5 games as Jeff the Land Shark",
+    "category": [
+      "Strategist",
+      "Jeff the Land Shark"
+    ],
+    "requires": "|@Game Mode:1| AND |Jeff the Land Shark|"
+  },
+  {
+    "name": "Use Jeff the Land Shark's Ultimate Ability",
+    "category": [
+      "Strategist",
+      "Jeff the Land Shark"
+    ],
+    "requires": "|@Game Mode:1| AND |Jeff the Land Shark|"
+  },
+  {
+    "name": "Heal 10k HP as Jeff the Land Shark",
+    "category": [
+      "Strategist",
+      "Jeff the Land Shark"
+    ],
+    "requires": "|@Game Mode:1| AND |Jeff the Land Shark|"
+  },
+  {
+    "name": "Win 3 games as Captain America",
+    "category": [
+      "Vanguard",
+      "Captain America"
+    ],
+    "requires": "|@Game Mode:1| AND |Captain America|"
+  },
+  {
+    "name": "Win 5 games as Captain America",
+    "category": [
+      "Vanguard",
+      "Captain America"
+    ],
+    "requires": "|@Game Mode:1| AND |Captain America|"
+  },
+  {
+    "name": "Use Captain America's Ultimate Ability",
+    "category": [
+      "Vanguard",
+      "Captain America"
+    ],
+    "requires": "|@Game Mode:1| AND |Captain America|"
+  },
+  {
+    "name": "Absorb 10k dmg as Captain America",
+    "category": [
+      "Vanguard",
+      "Captain America"
+    ],
+    "requires": "|@Game Mode:1| AND |Captain America|"
+  },
+  {
+    "name": "Win 3 games as Winter Soldier",
+    "category": [
+      "Duelist",
+      "Winter Soldier"
+    ],
+    "requires": "|@Game Mode:1| AND |Winter Soldier|"
+  },
+  {
+    "name": "Win 5 games as Winter Soldier",
+    "category": [
+      "Duelist",
+      "Winter Soldier"
+    ],
+    "requires": "|@Game Mode:1| AND |Winter Soldier|"
+  },
+  {
+    "name": "Use Winter Soldier's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Winter Soldier"
+    ],
+    "requires": "|@Game Mode:1| AND |Winter Soldier|"
+  },
+  {
+    "name": "10 elims as Winter Soldier",
+    "category": [
+      "Duelist",
+      "Winter Soldier"
+    ],
+    "requires": "|@Game Mode:1| AND |Winter Soldier|"
+  },
+  {
+    "name": "Win 3 games as Psylocke",
+    "category": [
+      "Duelist",
+      "Psylocke"
+    ],
+    "requires": "|@Game Mode:1| AND |Psylocke|"
+  },
+  {
+    "name": "Win 5 games as Psylocke",
+    "category": [
+      "Duelist",
+      "Psylocke"
+    ],
+    "requires": "|@Game Mode:1| AND |Psylocke|"
+  },
+  {
+    "name": "Use Psylocke's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Psylocke"
+    ],
+    "requires": "|@Game Mode:1| AND |Psylocke|"
+  },
+  {
+    "name": "10 elims as Psylocke",
+    "category": [
+      "Duelist",
+      "Psylocke"
+    ],
+    "requires": "|@Game Mode:1| AND |Psylocke|"
+  },
+  {
+    "name": "Win 3 games as Moon Knight",
+    "category": [
+      "Duelist",
+      "Moon Knight"
+    ],
+    "requires": "|@Game Mode:1| AND |Moon Knight|"
+  },
+  {
+    "name": "Win 5 games as Moon Knight",
+    "category": [
+      "Duelist",
+      "Moon Knight"
+    ],
+    "requires": "|@Game Mode:1| AND |Moon Knight|"
+  },
+  {
+    "name": "Use Moon Knight's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Moon Knight"
+    ],
+    "requires": "|@Game Mode:1| AND |Moon Knight|"
+  },
+  {
+    "name": "10 elims as Moon Knight",
+    "category": [
+      "Duelist",
+      "Moon Knight"
+    ],
+    "requires": "|@Game Mode:1| AND |Moon Knight|"
+  },
+  {
+    "name": "Win 3 games as Hawkeye",
+    "category": [
+      "Duelist",
+      "Hawkeye"
+    ],
+    "requires": "|@Game Mode:1| AND |Hawkeye|"
+  },
+  {
+    "name": "Win 5 games as Hawkeye",
+    "category": [
+      "Duelist",
+      "Hawkeye"
+    ],
+    "requires": "|@Game Mode:1| AND |Hawkeye|"
+  },
+  {
+    "name": "Use Hawkeye's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Hawkeye"
+    ],
+    "requires": "|@Game Mode:1| AND |Hawkeye|"
+  },
+  {
+    "name": "10 elims as Hawkeye",
+    "category": [
+      "Duelist",
+      "Hawkeye"
+    ],
+    "requires": "|@Game Mode:1| AND |Hawkeye|"
+  },
+  {
+    "name": "Win 3 games as Iron Fist",
+    "category": [
+      "Duelist",
+      "Iron Fist"
+    ],
+    "requires": "|@Game Mode:1| AND |Iron Fist|"
+  },
+  {
+    "name": "Win 5 games as Iron Fist",
+    "category": [
+      "Duelist",
+      "Iron Fist"
+    ],
+    "requires": "|@Game Mode:1| AND |Iron Fist|"
+  },
+  {
+    "name": "Use Iron Fist's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Iron Fist"
+    ],
+    "requires": "|@Game Mode:1| AND |Iron Fist|"
+  },
+  {
+    "name": "10 elims as Iron Fist",
+    "category": [
+      "Duelist",
+      "Iron Fist"
+    ],
+    "requires": "|@Game Mode:1| AND |Iron Fist|"
+  },
+  {
+    "name": "Win 3 games as Black Widow",
+    "category": [
+      "Duelist",
+      "Black Widow"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Widow|"
+  },
+  {
+    "name": "Win 5 games as Black Widow",
+    "category": [
+      "Duelist",
+      "Black Widow"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Widow|"
+  },
+  {
+    "name": "Use Black Widow's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Black Widow"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Widow|"
+  },
+  {
+    "name": "10 elims as Black Widow",
+    "category": [
+      "Duelist",
+      "Black Widow"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Widow|"
+  },
+  {
+    "name": "Win 3 games as Cloak & Dagger",
+    "category": [
+      "Strategist",
+      "Cloak & Dagger"
+    ],
+    "requires": "|@Game Mode:1| AND |Cloak & Dagger|"
+  },
+  {
+    "name": "Win 5 games as Cloak & Dagger",
+    "category": [
+      "Strategist",
+      "Cloak & Dagger"
+    ],
+    "requires": "|@Game Mode:1| AND |Cloak & Dagger|"
+  },
+  {
+    "name": "Use Cloak & Dagger's Ultimate Ability",
+    "category": [
+      "Strategist",
+      "Cloak & Dagger"
+    ],
+    "requires": "|@Game Mode:1| AND |Cloak & Dagger|"
+  },
+  {
+    "name": "Heal 10k HP as Cloak & Dagger",
+    "category": [
+      "Strategist",
+      "Cloak & Dagger"
+    ],
+    "requires": "|@Game Mode:1| AND |Cloak & Dagger|"
+  },
+  {
+    "name": "Win 3 games as Squirrel Girl",
+    "category": [
+      "Duelist",
+      "Squirrel Girl"
+    ],
+    "requires": "|@Game Mode:1| AND |Squirrel Girl|"
+  },
+  {
+    "name": "Win 5 games as Squirrel Girl",
+    "category": [
+      "Duelist",
+      "Squirrel Girl"
+    ],
+    "requires": "|@Game Mode:1| AND |Squirrel Girl|"
+  },
+  {
+    "name": "Use Squirrel Girl's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Squirrel Girl"
+    ],
+    "requires": "|@Game Mode:1| AND |Squirrel Girl|"
+  },
+  {
+    "name": "10 elims as Squirrel Girl",
+    "category": [
+      "Duelist",
+      "Squirrel Girl"
+    ],
+    "requires": "|@Game Mode:1| AND |Squirrel Girl|"
+  },
+  {
+    "name": "Win 3 games as Wolverine",
+    "category": [
+      "Duelist",
+      "Wolverine"
+    ],
+    "requires": "|@Game Mode:1| AND |Wolverine|"
+  },
+  {
+    "name": "Win 5 games as Wolverine",
+    "category": [
+      "Duelist",
+      "Wolverine"
+    ],
+    "requires": "|@Game Mode:1| AND |Wolverine|"
+  },
+  {
+    "name": "Use Wolverine's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Wolverine"
+    ],
+    "requires": "|@Game Mode:1| AND |Wolverine|"
+  },
+  {
+    "name": "10 elims as Wolverine",
+    "category": [
+      "Duelist",
+      "Wolverine"
+    ],
+    "requires": "|@Game Mode:1| AND |Wolverine|"
+  },
+  {
+    "name": "Win 3 games as Mister Fantastic",
+    "category": [
+      "Duelist",
+      "Mister Fantastic"
+    ],
+    "requires": "|@Game Mode:1| AND |Mister Fantastic|"
+  },
+  {
+    "name": "Win 5 games as Mister Fantastic",
+    "category": [
+      "Duelist",
+      "Mister Fantastic"
+    ],
+    "requires": "|@Game Mode:1| AND |Mister Fantastic|"
+  },
+  {
+    "name": "Use Mister Fantastic's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Mister Fantastic"
+    ],
+    "requires": "|@Game Mode:1| AND |Mister Fantastic|"
+  },
+  {
+    "name": "10 elims as Mister Fantastic",
+    "category": [
+      "Duelist",
+      "Mister Fantastic"
+    ],
+    "requires": "|@Game Mode:1| AND |Mister Fantastic|"
+  },
+  {
+    "name": "Win 3 games as Invisible Woman",
+    "category": [
+      "Strategist",
+      "Invisible Woman"
+    ],
+    "requires": "|@Game Mode:1| AND |Invisible Woman|"
+  },
+  {
+    "name": "Win 5 games as Invisible Woman",
+    "category": [
+      "Strategist",
+      "Invisible Woman"
+    ],
+    "requires": "|@Game Mode:1| AND |Invisible Woman|"
+  },
+  {
+    "name": "Use Invisible Woman's Ultimate Ability",
+    "category": [
+      "Strategist",
+      "Invisible Woman"
+    ],
+    "requires": "|@Game Mode:1| AND |Invisible Woman|"
+  },
+  {
+    "name": "Heal 10k HP as Invisible Woman",
+    "category": [
+      "Strategist",
+      "Invisible Woman"
+    ],
+    "requires": "|@Game Mode:1| AND |Invisible Woman|"
+  },
+  {
+    "name": "Win 3 games as Phoenix",
+    "category": [
+      "Duelist",
+      "Phoenix"
+    ],
+    "requires": "|@Game Mode:1| AND |Phoenix|"
+  },
+  {
+    "name": "Win 5 games as Phoenix",
+    "category": [
+      "Duelist",
+      "Phoenix"
+    ],
+    "requires": "|@Game Mode:1| AND |Phoenix|"
+  },
+  {
+    "name": "Use Phoenix's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Phoenix"
+    ],
+    "requires": "|@Game Mode:1| AND |Phoenix|"
+  },
+  {
+    "name": "10 elims as Phoenix",
+    "category": [
+      "Duelist",
+      "Phoenix"
+    ],
+    "requires": "|@Game Mode:1| AND |Phoenix|"
+  },
+  {
+    "name": "Win 3 games as Blade",
+    "category": [
+      "Duelist",
+      "Blade"
+    ],
+    "requires": "|@Game Mode:1| AND |Blade|"
+  },
+  {
+    "name": "Win 5 games as Blade",
+    "category": [
+      "Duelist",
+      "Blade"
+    ],
+    "requires": "|@Game Mode:1| AND |Blade|"
+  },
+  {
+    "name": "Use Blade's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Blade"
+    ],
+    "requires": "|@Game Mode:1| AND |Blade|"
+  },
+  {
+    "name": "10 elims as Blade",
+    "category": [
+      "Duelist",
+      "Blade"
+    ],
+    "requires": "|@Game Mode:1| AND |Blade|"
+  },
+  {
+    "name": "Win 3 games as Angela",
+    "category": [
+      "Vanguard",
+      "Angela"
+    ],
+    "requires": "|@Game Mode:1| AND |Angela|"
+  },
+  {
+    "name": "Win 5 games as Angela",
+    "category": [
+      "Vanguard",
+      "Angela"
+    ],
+    "requires": "|@Game Mode:1| AND |Angela|"
+  },
+  {
+    "name": "Use Angela's Ultimate Ability",
+    "category": [
+      "Vanguard",
+      "Angela"
+    ],
+    "requires": "|@Game Mode:1| AND |Angela|"
+  },
+  {
+    "name": "Absorb 10k dmg as Angela",
+    "category": [
+      "Vanguard",
+      "Angela"
+    ],
+    "requires": "|@Game Mode:1| AND |Angela|"
+  },
+  {
+    "name": "Win 3 games as Daredevil",
+    "category": [
+      "Duelist",
+      "Daredevil"
+    ],
+    "requires": "|@Game Mode:1| AND |Daredevil|"
+  },
+  {
+    "name": "Win 5 games as Daredevil",
+    "category": [
+      "Duelist",
+      "Daredevil"
+    ],
+    "requires": "|@Game Mode:1| AND |Daredevil|"
+  },
+  {
+    "name": "Use Daredevil's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Daredevil"
+    ],
+    "requires": "|@Game Mode:1| AND |Daredevil|"
+  },
+  {
+    "name": "10 elims as Daredevil",
+    "category": [
+      "Duelist",
+      "Daredevil"
+    ],
+    "requires": "|@Game Mode:1| AND |Daredevil|"
+  },
+  {
+    "name": "Win 3 games as Gambit",
+    "category": [
+      "Strategist",
+      "Gambit"
+    ],
+    "requires": "|@Game Mode:1| AND |Gambit|"
+  },
+  {
+    "name": "Win 5 games as Gambit",
+    "category": [
+      "Strategist",
+      "Gambit"
+    ],
+    "requires": "|@Game Mode:1| AND |Gambit|"
+  },
+  {
+    "name": "Use Gambit's Ultimate Ability",
+    "category": [
+      "Strategist",
+      "Gambit"
+    ],
+    "requires": "|@Game Mode:1| AND |Gambit|"
+  },
+  {
+    "name": "Heal 10k HP as Gambit",
+    "category": [
+      "Strategist",
+      "Gambit"
+    ],
+    "requires": "|@Game Mode:1| AND |Gambit|"
+  },
+  {
+    "name": "Win 3 games as Rogue",
+    "category": [
+      "Vanguard",
+      "Rogue"
+    ],
+    "requires": "|@Game Mode:1| AND |Rogue|"
+  },
+  {
+    "name": "Win 5 games as Rogue",
+    "category": [
+      "Vanguard",
+      "Rogue"
+    ],
+    "requires": "|@Game Mode:1| AND |Rogue|"
+  },
+  {
+    "name": "Use Rogue's Ultimate Ability",
+    "category": [
+      "Vanguard",
+      "Rogue"
+    ],
+    "requires": "|@Game Mode:1| AND |Rogue|"
+  },
+  {
+    "name": "Absorb 10k dmg as Rogue",
+    "category": [
+      "Vanguard",
+      "Rogue"
+    ],
+    "requires": "|@Game Mode:1| AND |Rogue|"
+  },
+  {
+    "name": "Win 3 games as Deadpool - Vanguard",
+    "category": [
+      "Vanguard",
+      "Deadpool"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Vanguard|"
+  },
+  {
+    "name": "Win 5 games as Deadpool - Vanguard",
+    "category": [
+      "Vanguard",
+      "Deadpool"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Vanguard|"
+  },
+  {
+    "name": "Use Deadpool - Vanguard's Ultimate Ability",
+    "category": [
+      "Vanguard",
+      "Deadpool"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Vanguard|"
+  },
+  {
+    "name": "Absorb 10k dmg as Deadpool - Vanguard",
+    "category": [
+      "Vanguard",
+      "Deadpool"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Vanguard|"
+  },
+  {
+    "name": "Win 3 games as Deadpool - Duelist",
+    "category": [
+      "Duelist",
+      "Deadpool"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Duelist|"
+  },
+  {
+    "name": "Win 5 games as Deadpool - Duelist",
+    "category": [
+      "Duelist",
+      "Deadpool"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Duelist|"
+  },
+  {
+    "name": "Use Deadpool - Duelist's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Deadpool"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Duelist|"
+  },
+  {
+    "name": "10 elims as Deadpool - Duelist",
+    "category": [
+      "Duelist",
+      "Deadpool"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Duelist|"
+  },
+  {
+    "name": "Win 3 games as Deadpool - Strategist",
+    "category": [
+      "Strategist",
+      "Deadpool"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Strategist|"
+  },
+  {
+    "name": "Win 5 games as Deadpool - Strategist",
+    "category": [
+      "Strategist",
+      "Deadpool"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Strategist|"
+  },
+  {
+    "name": "Use Deadpool - Strategist's Ultimate Ability",
+    "category": [
+      "Strategist",
+      "Deadpool"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Strategist|"
+  },
+  {
+    "name": "Heal 10k HP as Deadpool - Strategist",
+    "category": [
+      "Strategist",
+      "Deadpool"
+    ],
+    "requires": "|@Game Mode:1| AND |Deadpool - Strategist|"
+  },
+  {
+    "name": "Win 3 games as Elsa Bloodstone",
+    "category": [
+      "Duelist",
+      "Elsa Bloodstone"
+    ],
+    "requires": "|@Game Mode:1| AND |Elsa Bloodstone|"
+  },
+  {
+    "name": "Win 5 games as Elsa Bloodstone",
+    "category": [
+      "Duelist",
+      "Elsa Bloodstone"
+    ],
+    "requires": "|@Game Mode:1| AND |Elsa Bloodstone|"
+  },
+  {
+    "name": "Use Elsa Bloodstone's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Elsa Bloodstone"
+    ],
+    "requires": "|@Game Mode:1| AND |Elsa Bloodstone|"
+  },
+  {
+    "name": "10 elims as Elsa Bloodstone",
+    "category": [
+      "Duelist",
+      "Elsa Bloodstone"
+    ],
+    "requires": "|@Game Mode:1| AND |Elsa Bloodstone|"
+  },
+  {
+    "name": "Win 3 games as White Fox",
+    "category": [
+      "Strategist",
+      "White Fox"
+    ],
+    "requires": "|@Game Mode:1| AND |White Fox|"
+  },
+  {
+    "name": "Win 5 games as White Fox",
+    "category": [
+      "Strategist",
+      "White Fox"
+    ],
+    "requires": "|@Game Mode:1| AND |White Fox|"
+  },
+  {
+    "name": "Use White Fox's Ultimate Ability",
+    "category": [
+      "Strategist",
+      "White Fox"
+    ],
+    "requires": "|@Game Mode:1| AND |White Fox|"
+  },
+  {
+    "name": "Heal 10k HP as White Fox",
+    "category": [
+      "Strategist",
+      "White Fox"
+    ],
+    "requires": "|@Game Mode:1| AND |White Fox|"
+  },
+  {
+    "name": "Win 3 games as Black Cat",
+    "category": [
+      "Duelist",
+      "Black Cat"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Cat|"
+  },
+  {
+    "name": "Win 5 games as Black Cat",
+    "category": [
+      "Duelist",
+      "Black Cat"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Cat|"
+  },
+  {
+    "name": "Use Black Cat's Ultimate Ability",
+    "category": [
+      "Duelist",
+      "Black Cat"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Cat|"
+  },
+  {
+    "name": "10 elims as Black Cat",
+    "category": [
+      "Duelist",
+      "Black Cat"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Cat|"
+  },
+  {
+    "name": "Win a game with ALL 8 Avengers",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Avenger:8|"
+  },
+  {
+    "name": "Win a game with the Complete Fantastic Four",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Fantastic 4:4|"
+  },
+  {
+    "name": "Win a game with ALL 5 Guardians of the Galaxy",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Guardians of the Galaxy:5|"
+  },
+  {
+    "name": "Win a game with ALL 3 Agents of Atlas",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Agents of Atlas:3|"
+  },
+  {
+    "name": "Win a game with 6 Villains on your team",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Villain:6|"
+  },
+  {
+    "name": "Win a game with 6 Mutants on your team",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Mutant:6|"
+  },
+  {
+    "name": "Win a game with 3 Vanguards on your team",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Vanguard:3|"
+  },
+  {
+    "name": "Win a game using only Duelists on your team",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Duelist:6|"
+  },
+  {
+    "name": "Win a game using only Vanguards on your team",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Vanguard:6|"
+  },
+  {
+    "name": "Win a game using only Strategists on your team",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Strategist:6|"
+  },
+  {
+    "name": "Win with 1 Vanguard, 1 Duelist, 1 Strategist",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Vanguard:1| AND |@Duelist:1| AND |@Strategist:1|"
+  },
+  {
+    "name": "Play a match on Yggsgard: Royal Palace",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on Yggsgard: Yggdrasil Path",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on Tokyo 2099: Shin-Shibuya",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on Tokyo 2099: Spider-Islands",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on Tokyo 2099: Ninomaru",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on IEW: Hall of Djalia",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on IEW: Birnin T'Challa",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on HCB: Hell's Heaven",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on EEN: Midtown",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on EEN: Central Park",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on EEN: Sanctum Sanctorum",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on Hellfire Gala: Krakoa",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on Hellfire Gala: Arakko",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on Klyntar: Symbiotic Surface",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on Klyntar: Celestial Husk",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on Klyntar: Throne of Knull",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on K'un-Lun: Heart of Heaven",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on Lower Manhattan",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on Museum of Contemplation",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on Grand Garden",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play a match on every map (Map Grand Tour)",
+    "category": [
+      "Maps"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Play on Hellfire Gala: Krakoa as a Mutant",
+    "category": [
+      "Maps",
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Mutant:1|"
+  },
+  {
+    "name": "Play on Hellfire Gala: Arakko as a Mutant",
+    "category": [
+      "Maps",
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Mutant:1|"
+  },
+  {
+    "name": "Play on IEW: Hall of Djalia as Black Panther",
+    "category": [
+      "Maps",
+      "Black Panther"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Panther|"
+  },
+  {
+    "name": "Play on IEW: Birnin T'Challa as Black Panther",
+    "category": [
+      "Maps",
+      "Black Panther"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Panther|"
+  },
+  {
+    "name": "Play on Yggsgard: Royal Palace as Thor",
+    "category": [
+      "Maps",
+      "Thor"
+    ],
+    "requires": "|@Game Mode:1| AND |Thor|"
+  },
+  {
+    "name": "Play on Yggsgard: Royal Palace as Loki",
+    "category": [
+      "Maps",
+      "Loki"
+    ],
+    "requires": "|@Game Mode:1| AND |Loki|"
+  },
+  {
+    "name": "Play on Yggsgard: Yggdrasil Path as Thor",
+    "category": [
+      "Maps",
+      "Thor"
+    ],
+    "requires": "|@Game Mode:1| AND |Thor|"
+  },
+  {
+    "name": "Play on Tokyo 2099: Spider-Islands as Spider-Man",
+    "category": [
+      "Maps",
+      "Spider-Man"
+    ],
+    "requires": "|@Game Mode:1| AND |Spider-Man|"
+  },
+  {
+    "name": "Play on Tokyo 2099: Spider-Islands as Black Cat",
+    "category": [
+      "Maps",
+      "Black Cat"
+    ],
+    "requires": "|@Game Mode:1| AND |Black Cat|"
+  },
+  {
+    "name": "Play on Klyntar: Symbiotic Surface as Venom",
+    "category": [
+      "Maps",
+      "Venom"
+    ],
+    "requires": "|@Game Mode:1| AND |Venom|"
+  },
+  {
+    "name": "Play on Klyntar: Celestial Husk as Venom",
+    "category": [
+      "Maps",
+      "Venom"
+    ],
+    "requires": "|@Game Mode:1| AND |Venom|"
+  },
+  {
+    "name": "Play on HCB: Hell's Heaven as a Villain",
+    "category": [
+      "Maps",
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Villain:1|"
+  },
+  {
+    "name": "Play on EEN: Midtown as Iron Man",
+    "category": [
+      "Maps",
+      "Iron Man"
+    ],
+    "requires": "|@Game Mode:1| AND |Iron Man|"
+  },
+  {
+    "name": "Play on EEN: Central Park as Doctor Strange",
+    "category": [
+      "Maps",
+      "Doctor Strange"
+    ],
+    "requires": "|@Game Mode:1| AND |Doctor Strange|"
+  },
+  {
+    "name": "Play on EEN: Sanctum Sanctorum as Doctor Strange",
+    "category": [
+      "Maps",
+      "Doctor Strange"
+    ],
+    "requires": "|@Game Mode:1| AND |Doctor Strange|"
+  },
+  {
+    "name": "Play on Lower Manhattan as Daredevil",
+    "category": [
+      "Maps",
+      "Daredevil"
+    ],
+    "requires": "|@Game Mode:1| AND |Daredevil|"
+  },
+  {
+    "name": "Play on Lower Manhattan as Spider-Man",
+    "category": [
+      "Maps",
+      "Spider-Man"
+    ],
+    "requires": "|@Game Mode:1| AND |Spider-Man|"
+  },
+  {
+    "name": "Play on K'un-Lun: Heart of Heaven as Iron Fist",
+    "category": [
+      "Maps",
+      "Iron Fist"
+    ],
+    "requires": "|@Game Mode:1| AND |Iron Fist|"
+  },
+  {
+    "name": "Play on Museum of Contemplation as Adam Warlock",
+    "category": [
+      "Maps",
+      "Adam Warlock"
+    ],
+    "requires": "|@Game Mode:1| AND |Adam Warlock|"
+  },
+  {
+    "name": "Play on Hellfire Gala: Krakoa as Wolverine",
+    "category": [
+      "Maps",
+      "Wolverine"
+    ],
+    "requires": "|@Game Mode:1| AND |Wolverine|"
+  },
+  {
+    "name": "Play on Hellfire Gala: Krakoa as Magneto",
+    "category": [
+      "Maps",
+      "Magneto"
+    ],
+    "requires": "|@Game Mode:1| AND |Magneto|"
+  },
+  {
+    "name": "Win a Domination match",
+    "category": [
+      "Gamemode"
+    ],
+    "requires": "|Quick Match|"
+  },
+  {
+    "name": "Win a Convoy match",
+    "category": [
+      "Gamemode"
+    ],
+    "requires": "|Quick Match|"
+  },
+  {
+    "name": "Win a Convergence match",
+    "category": [
+      "Gamemode"
+    ],
+    "requires": "|Quick Match|"
+  },
+  {
+    "name": "Win a Clash match",
+    "category": [
+      "Gamemode"
+    ],
+    "requires": "|Quick Match|"
+  },
+  {
+    "name": "Win every game mode (Domination, Convoy, Convergence, Clash)",
+    "category": [
+      "Gamemode"
+    ],
+    "requires": "|Quick Match|"
+  },
+  {
+    "name": "Win a match after being down 2-0",
+    "category": [
+      "Gamemode"
+    ],
+    "requires": "|Quick Match|"
+  },
+  {
+    "name": "Win a game with heroes from 3 different factions",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Avenger:1| AND |@Mutant:1| AND |@Villain:1|"
+  },
+  {
+    "name": "Win a game with an Avenger and a Villain on the same team",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Avenger:1| AND |@Villain:1|"
+  },
+  {
+    "name": "Win a game with a Fantastic 4 member and a Mutant",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Fantastic 4:1| AND |@Mutant:1|"
+  },
+  {
+    "name": "Win a game with heroes from every faction",
+    "category": [
+      "Factions"
+    ],
+    "requires": "|@Game Mode:1| AND |@Avenger:1| AND |@Fantastic 4:1| AND |@Mutant:1| AND |@Villain:1| AND |@Guardians of the Galaxy:1| AND |@Agents of Atlas:1|"
+  },
+  {
+    "name": "Win as every Vanguard",
+    "category": [
+      "Achievement"
+    ],
+    "requires": "|@Game Mode:1| AND |@Vanguard:13|"
+  },
+  {
+    "name": "Win as every Duelist",
+    "category": [
+      "Achievement"
+    ],
+    "requires": "|@Game Mode:1| AND |@Duelist:26|"
+  },
+  {
+    "name": "Win as every Strategist",
+    "category": [
+      "Achievement"
+    ],
+    "requires": "|@Game Mode:1| AND |@Strategist:12|"
+  },
+  {
+    "name": "Win as every character at least once",
+    "category": [
+      "Achievement"
+    ],
+    "requires": "|@Game Mode:1| AND |@Character:51|"
+  },
+  {
+    "name": "Win 50 total matches",
+    "category": [
+      "Achievement"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Win 100 total matches",
+    "category": [
+      "Achievement"
+    ],
+    "requires": "|@Game Mode:1|"
+  },
+  {
+    "name": "Complete Blood Hunt on Normal",
+    "category": [
+      "Blood Hunt",
+      "Milestone"
+    ],
+    "requires": "|Blood Hunt|"
+  },
+  {
+    "name": "Complete Blood Hunt on Hard",
+    "category": [
+      "Blood Hunt",
+      "Milestone"
+    ],
+    "requires": "|Blood Hunt|"
+  },
+  {
+    "name": "Complete Blood Hunt on Extreme",
+    "category": [
+      "Blood Hunt",
+      "Milestone"
+    ],
+    "requires": "|Blood Hunt|"
+  },
+  {
+    "name": "Complete Blood Hunt on Nightmare",
+    "category": [
+      "Blood Hunt",
+      "Milestone"
+    ],
+    "requires": "|Blood Hunt|"
+  },
+  {
+    "name": "Play Jeff the Land Shark in Blood Hunt",
+    "category": [
+      "Blood Hunt",
+      "Jeff the Land Shark"
+    ],
+    "requires": "|Blood Hunt| AND |Jeff the Land Shark|"
+  },
+  {
+    "name": "Play Thor in Blood Hunt",
+    "category": [
+      "Blood Hunt",
+      "Thor"
+    ],
+    "requires": "|Blood Hunt| AND |Thor|"
+  },
+  {
+    "name": "Play Blade in Blood Hunt",
+    "category": [
+      "Blood Hunt",
+      "Blade"
+    ],
+    "requires": "|Blood Hunt| AND |Blade|"
+  },
+  {
+    "name": "Play The Punisher in Blood Hunt",
+    "category": [
+      "Blood Hunt",
+      "The Punisher"
+    ],
+    "requires": "|Blood Hunt| AND |The Punisher|"
+  },
+  {
+    "name": "Play Squirrel Girl in Blood Hunt",
+    "category": [
+      "Blood Hunt",
+      "Squirrel Girl"
+    ],
+    "requires": "|Blood Hunt| AND |Squirrel Girl|"
+  },
+  {
+    "name": "Play Moon Knight in Blood Hunt",
+    "category": [
+      "Blood Hunt",
+      "Moon Knight"
+    ],
+    "requires": "|Blood Hunt| AND |Moon Knight|"
+  }
+]

@@ -1,0 +1,95 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "DLC_enabled":{
+            "display_name": "DLC Enabled",
+            "description": "Is the DLC enabled?",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": true
+        },
+
+        "include_faction_challenges": {
+            "display_name": "Include Faction Challenges",
+            "description": "Include faction-based checks such as 'Complete a game with 5 Mutants' or 'Win a game with all Avengers'.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Content"
+        },
+        "include_map_challenges": {
+            "display_name": "Include Map Challenges",
+            "description": "Include map-specific checks such as 'Play a match on Yggsgard: Royal Palace' or 'Play on Hellfire Gala as a Mutant'.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Content"
+        },
+        "include_gamemode_challenges": {
+            "display_name": "Include Gamemode Challenges",
+            "description": "Include specific game mode checks such as winning a Domination, Convoy, Convergence, or Clash match. Quick Match checks are always included.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Content"
+        },
+        "include_achievement_challenges": {
+            "display_name": "Include Achievement Challenges",
+            "description": "Include long-term achievement checks such as 'Win 50 total matches', 'Win 100 total matches', and 'Win as every character'.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Content"
+        },
+        "include_extended_character_challenges": {
+            "display_name": "Include Extended Character Challenges",
+            "description": "Include extended per-character checks such as 'Win 3/5 games as X', '10 elims as X', 'Absorb 10k dmg as X', 'Heal 10k HP as X', and 'Use X's Ultimate Ability'.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Content"
+        },
+
+        "include_blood_hunt": {
+            "display_name": "Include Blood Hunt Mode",
+            "description": "Include the Blood Hunt PvE co-op mode checks in the randomizer.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Blood Hunt"
+        },
+        "blood_hunt_max_difficulty": {
+            "display_name": "Blood Hunt Max Difficulty",
+            "description": "The highest Blood Hunt difficulty to include as checks. Each level includes all lower difficulties (e.g. Hard includes Normal + Hard).",
+            "type": "Choice",
+            "values": {
+                "normal": 0,
+                "hard": 1,
+                "extreme": 2,
+                "nightmare": 3
+            },
+            "default": 1,
+            "group": "Blood Hunt"
+        }
+    }
+
+}
