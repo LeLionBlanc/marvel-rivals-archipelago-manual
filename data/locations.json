@@ -3453,6 +3453,13 @@
     "requires": "|Convergence|"
   },
   {
+    "name": "Play a Clash match",
+    "category": [
+      "Gamemode"
+    ],
+    "requires": "|Quick Match|"
+  },
+  {
     "name": "Win a Clash match",
     "category": [
       "Gamemode"
@@ -3527,14 +3534,14 @@
     "category": [
       "Achievement"
     ],
-    "requires": "|@Game Mode:1|"
+    "requires": "|@Game Mode:1| AND |@Character:10|"
   },
   {
     "name": "Win 100 total matches",
     "category": [
       "Achievement"
     ],
-    "requires": "|@Game Mode:1|"
+    "requires": "|@Game Mode:1| AND |@Character:10|"
   },
   {
     "name": "Complete Blood Hunt on Normal",
